@@ -1,0 +1,8222 @@
+[
+  {
+    "surface_word": "алуурчин",
+    "lemma": "алуур",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "алуур",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "нэрлэх",
+    "lemma": "нэр",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "нэр",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "зогсоц",
+    "lemma": "зогсох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зогсох",
+      "ц"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ц"
+    ]
+  },
+  {
+    "surface_word": "цохиур",
+    "lemma": "цохих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "цохих",
+      "иур"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "иур"
+    ]
+  },
+  {
+    "surface_word": "догшин",
+    "lemma": "догших",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "догших",
+      "н"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "н"
+    ]
+  },
+  {
+    "surface_word": "онгойлгох",
+    "lemma": "онгойх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "онгойх",
+      "лгох"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лгох"
+    ]
+  },
+  {
+    "surface_word": "басамжлал",
+    "lemma": "басамжлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "басамжлах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "дайралт",
+    "lemma": "дайрах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "дайрах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "хүсэлт",
+    "lemma": "хүсэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хүсэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "автоматжилт",
+    "lemma": "автоматжих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "автоматжих",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "эрэлт",
+    "lemma": "эрэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эрэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "самнах",
+    "lemma": "сам",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "сам",
+      "нах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "нах"
+    ]
+  },
+  {
+    "surface_word": "шинэчлэлт",
+    "lemma": "шинэ",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шинэ",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "тагнуул",
+    "lemma": "тагнах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тагнах",
+      "уул"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уул"
+    ]
+  },
+  {
+    "surface_word": "жингүйдэх",
+    "lemma": "жингүй",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "жингүй",
+      "дэх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "дэх"
+    ]
+  },
+  {
+    "surface_word": "дуудлага",
+    "lemma": "дуудах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "дуудах",
+      "лага"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лага"
+    ]
+  },
+  {
+    "surface_word": "өмгөөлөгч",
+    "lemma": "өмгөөлөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "өмгөөлөх",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "судалгаа",
+    "lemma": "судлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "судлах",
+      "аа"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аа"
+    ]
+  },
+  {
+    "surface_word": "ангилах",
+    "lemma": "анги",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "анги",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "залилах",
+    "lemma": "заль",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "заль",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "биелэлт",
+    "lemma": "биелэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "биелэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "эмнэлэг",
+    "lemma": "эмнэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эмнэх",
+      "лэг"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лэг"
+    ]
+  },
+  {
+    "surface_word": "сүйрүүлэх",
+    "lemma": "сүйрэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "сүйрэх",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "шаардлагатай",
+    "lemma": "шаардах",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "шаардах",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "урхидах",
+    "lemma": "урхи",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "урхи",
+      "дах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "дах"
+    ]
+  },
+  {
+    "surface_word": "тохиромжтой",
+    "lemma": "тохиромж",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "тохиромж",
+      "той"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "той"
+    ]
+  },
+  {
+    "surface_word": "цуврал",
+    "lemma": "цуврах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "цуврах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "бариул",
+    "lemma": "барих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "барих",
+      "уул"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уул"
+    ]
+  },
+  {
+    "surface_word": "лавлагаа",
+    "lemma": "лавлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "лавлах",
+      "гаа"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гаа"
+    ]
+  },
+  {
+    "surface_word": "зөөлрөх",
+    "lemma": "зөөлөн",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "зөөлөн",
+      "рөх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "рөх"
+    ]
+  },
+  {
+    "surface_word": "сүвэгчлэх",
+    "lemma": "сүвэг",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "сүвэг",
+      "члэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "члэх"
+    ]
+  },
+  {
+    "surface_word": "ёжлол",
+    "lemma": "ёжлох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ёжлох",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "базлах",
+    "lemma": "базах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "базах",
+      "лах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "ядмаг",
+    "lemma": "ядах",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "ядах",
+      "маг"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "маг"
+    ]
+  },
+  {
+    "surface_word": "ойлголт",
+    "lemma": "ойлгох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ойлгох",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "тэнцүү",
+    "lemma": "тэнцэх",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "тэнцэх",
+      "үү"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үү"
+    ]
+  },
+  {
+    "surface_word": "чухалчлал",
+    "lemma": "чухал",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "чухал",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "оройтох",
+    "lemma": "орой",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "орой",
+      "тох"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тох"
+    ]
+  },
+  {
+    "surface_word": "найрамдал",
+    "lemma": "найрамдах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "найрамдах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хөгжилтэй",
+    "lemma": "хөгжил",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "хөгжил",
+      "тэй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "гялбаа",
+    "lemma": "гял",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "гял",
+      "аа"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "аа"
+    ]
+  },
+  {
+    "surface_word": "зугтлага",
+    "lemma": "зугтах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зугтах",
+      "лага"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лага"
+    ]
+  },
+  {
+    "surface_word": "өсгөх",
+    "lemma": "өсөх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "өсөх",
+      "гөх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гөх"
+    ]
+  },
+  {
+    "surface_word": "гэрэлтэлт",
+    "lemma": "гэрэлтэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "гэрэлтэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "чадавхигүй",
+    "lemma": "чадавхи",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "чадавхи",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "хашилт",
+    "lemma": "хаших",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хаших",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "гуниглал",
+    "lemma": "гуниглах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "гуниглах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "бэлтгэл",
+    "lemma": "бэлтгэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бэлтгэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "доройтох",
+    "lemma": "дорой",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "дорой",
+      "тох"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "тох"
+    ]
+  },
+  {
+    "surface_word": "сүрдүүлэг",
+    "lemma": "сүр",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "сүр",
+      "г"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "г"
+    ]
+  },
+  {
+    "surface_word": "сэрэмжлүүлэг",
+    "lemma": "сэрэмжлүүлэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "сэрэмжлүүлэх",
+      "г"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "г"
+    ]
+  },
+  {
+    "surface_word": "эсрэгцэл",
+    "lemma": "эсрэгцэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эсрэгцэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "нислэг",
+    "lemma": "нисэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "нисэх",
+      "лэг"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лэг"
+    ]
+  },
+  {
+    "surface_word": "дооглох",
+    "lemma": "доог",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "доог",
+      "лох"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лох"
+    ]
+  },
+  {
+    "surface_word": "чангарал",
+    "lemma": "чанга",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "чанга",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "үйрүүлэх",
+    "lemma": "үйрэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "үйрэх",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "шимтгэл",
+    "lemma": "шимтгэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шимтгэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "ухралт",
+    "lemma": "ухрах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ухрах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "унжлага",
+    "lemma": "унжих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "унжих",
+      "лага"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лага"
+    ]
+  },
+  {
+    "surface_word": "ургац",
+    "lemma": "ургах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ургах",
+      "ц"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ц"
+    ]
+  },
+  {
+    "surface_word": "үзэгдэх",
+    "lemma": "үзэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "үзэх",
+      "гдэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гдэх"
+    ]
+  },
+  {
+    "surface_word": "гутамшигтай",
+    "lemma": "гутах",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "гутах",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "хаалт",
+    "lemma": "хаах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хаах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "шинжээч",
+    "lemma": "шинжих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шинжих",
+      "ээч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ээч"
+    ]
+  },
+  {
+    "surface_word": "хилэгнэл",
+    "lemma": "хилэгнэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хилэгнэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "бүрмэл",
+    "lemma": "бүрэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бүрэх",
+      "мэл"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мэл"
+    ]
+  },
+  {
+    "surface_word": "өндөрлөх",
+    "lemma": "өндөр",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "өндөр",
+      "лөх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лөх"
+    ]
+  },
+  {
+    "surface_word": "баясал",
+    "lemma": "баясах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "баясах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "бэлчээр",
+    "lemma": "бэлчих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бэлчих",
+      "р"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "р"
+    ]
+  },
+  {
+    "surface_word": "тэгшлэх",
+    "lemma": "тэгш",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "тэгш",
+      "лэх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "тасалгаа",
+    "lemma": "таслах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "таслах",
+      "гаа"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гаа"
+    ]
+  },
+  {
+    "surface_word": "өрсөлдөөн",
+    "lemma": "өрсөлдөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "өрсөлдөх",
+      "өөн"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "өөн"
+    ]
+  },
+  {
+    "surface_word": "гэгээтэй",
+    "lemma": "гэгээ",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "гэгээ",
+      "тэй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "савсагнуур",
+    "lemma": "савсагнах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "савсагнах",
+      "уур"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уур"
+    ]
+  },
+  {
+    "surface_word": "зууралдах",
+    "lemma": "зуурах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "зуурах",
+      "лдах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лдах"
+    ]
+  },
+  {
+    "surface_word": "харьяалалгүй",
+    "lemma": "харьяалал",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "харьяалал",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "сэжигтэн",
+    "lemma": "сэжиг ",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "сэжиг ",
+      "тэн"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэн"
+    ]
+  },
+  {
+    "surface_word": "дульхан",
+    "lemma": "дуль",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "дуль",
+      "хан"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "хан"
+    ]
+  },
+  {
+    "surface_word": "засварлах",
+    "lemma": "засах",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "засах",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "дайчин",
+    "lemma": "дайн",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "дайн",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "даамжрал",
+    "lemma": "даамжрах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "даамжрах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "харагдац",
+    "lemma": "харагдах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "харагдах",
+      "ц"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ц"
+    ]
+  },
+  {
+    "surface_word": "нэмэгдэл",
+    "lemma": "нэмэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "нэмэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хатуурах",
+    "lemma": "хатуу",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "хатуу",
+      "рах"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "рах"
+    ]
+  },
+  {
+    "surface_word": "ганхалт",
+    "lemma": "ганхах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ганхах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "оргуул",
+    "lemma": "оргох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "оргох",
+      "уул"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уул"
+    ]
+  },
+  {
+    "surface_word": "засварлагч",
+    "lemma": "засах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "засах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "эмхтгэгч",
+    "lemma": "эмхтгэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эмхтгэх",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "хамгаалалт",
+    "lemma": "хамгаалах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хамгаалах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "арвижих",
+    "lemma": "арвин",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "арвин",
+      "жих"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "жих"
+    ]
+  },
+  {
+    "surface_word": "салбарлах",
+    "lemma": "салбар",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "салбар",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "тэгшлэлт",
+    "lemma": "тэгш",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тэгш",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "даажигнах",
+    "lemma": "даажин",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "даажин",
+      "гнах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гнах"
+    ]
+  },
+  {
+    "surface_word": "нэгтгэл",
+    "lemma": "нэгтгэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "нэгтгэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "цайвар",
+    "lemma": "цайх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "цайх",
+      "вар"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "вар"
+    ]
+  },
+  {
+    "surface_word": "нарийхан",
+    "lemma": "нарийн",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "нарийн",
+      "хан"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "хан"
+    ]
+  },
+  {
+    "surface_word": "холбоо",
+    "lemma": "холбох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "холбох",
+      "оо"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "оо"
+    ]
+  },
+  {
+    "surface_word": "бүтээх",
+    "lemma": "бүтэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "бүтэх",
+      "ээх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ээх"
+    ]
+  },
+  {
+    "surface_word": "эрсдэл",
+    "lemma": "эрсдэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эрсдэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "наадгай",
+    "lemma": "наадах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "наадах",
+      "гай"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гай"
+    ]
+  },
+  {
+    "surface_word": "эндүүрэл",
+    "lemma": "эндүүрэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эндүүрэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "тасрал",
+    "lemma": "тасрах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тасрах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "шунал",
+    "lemma": "шунах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шунах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "ваарчин",
+    "lemma": "ваар",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ваар",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "чагнаал",
+    "lemma": "чагнах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "чагнах",
+      "аал"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аал"
+    ]
+  },
+  {
+    "surface_word": "урилга",
+    "lemma": "урих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "урих",
+      "лга"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лга"
+    ]
+  },
+  {
+    "surface_word": "гадарлах",
+    "lemma": "гадар",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "гадар",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "хороох",
+    "lemma": "хорох",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "хорох",
+      "оох"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "оох"
+    ]
+  },
+  {
+    "surface_word": "салаалах",
+    "lemma": "салаа",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "салаа",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "найрлага",
+    "lemma": "найрах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "найрах",
+      "лага"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лага"
+    ]
+  },
+  {
+    "surface_word": "сүлжмэл",
+    "lemma": "сүлжих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "сүлжих",
+      "мэл"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мэл"
+    ]
+  },
+  {
+    "surface_word": "тээвэрлэлт",
+    "lemma": "тээх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тээх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "зөөлрүүлэх",
+    "lemma": "зөөлөн",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "зөөлөн",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "гэмгүй",
+    "lemma": "гэм",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "гэм",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "асуулт",
+    "lemma": "асуух",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "асуух",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "эмгэнэлт",
+    "lemma": "эмгэнэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эмгэнэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "санаачлагч",
+    "lemma": "санах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "санах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "нотолгоо",
+    "lemma": "нотлох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "нотлох",
+      "гоо"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гоо"
+    ]
+  },
+  {
+    "surface_word": "энэрэнгүй",
+    "lemma": "энэрэх",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "энэрэх",
+      "нгүй"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "нгүй"
+    ]
+  },
+  {
+    "surface_word": "зөрчилдөөн",
+    "lemma": "зөрчилдөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зөрчилдөх",
+      "өөн"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "өөн"
+    ]
+  },
+  {
+    "surface_word": "орилох",
+    "lemma": "орь",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "орь",
+      "лох"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "лох"
+    ]
+  },
+  {
+    "surface_word": "барзгар",
+    "lemma": "барзайх",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "барзайх",
+      "гар"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гар"
+    ]
+  },
+  {
+    "surface_word": "холбоц",
+    "lemma": "холбох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "холбох",
+      "ц"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ц"
+    ]
+  },
+  {
+    "surface_word": "урамшуулал",
+    "lemma": "урамшуулах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "урамшуулах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хольцгүй",
+    "lemma": "холих",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "холих",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "ярилцлага",
+    "lemma": "ярилцах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ярилцах",
+      "лага"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лага"
+    ]
+  },
+  {
+    "surface_word": "тунадас",
+    "lemma": "тунах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тунах",
+      "дас"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "дас"
+    ]
+  },
+  {
+    "surface_word": "казиночин",
+    "lemma": "казино",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "казино",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "дарангуйлал",
+    "lemma": "дарангуйлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "дарангуйлах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хувирал",
+    "lemma": "хувирах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хувирах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "бутлах",
+    "lemma": "бут",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "бут",
+      "лах"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "хожимдох",
+    "lemma": "хожим",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "хожим",
+      "дох"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "дох"
+    ]
+  },
+  {
+    "surface_word": "сэргээлт",
+    "lemma": "сэргэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "сэргэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "бишрэлтэй",
+    "lemma": "бишрэл",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "бишрэл",
+      "тэй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "баярлах",
+    "lemma": "баяр",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "баяр",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "мөхөл",
+    "lemma": "мөхөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "мөхөх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "ангуучлал",
+    "lemma": "ангууч",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ангууч",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хуурамч",
+    "lemma": "хуурах",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "хуурах",
+      "мч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мч"
+    ]
+  },
+  {
+    "surface_word": "гундуу",
+    "lemma": "гундах",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "гундах",
+      "уу"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уу"
+    ]
+  },
+  {
+    "surface_word": "тооцоо",
+    "lemma": "тооцох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тооцох",
+      "оо"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "оо"
+    ]
+  },
+  {
+    "surface_word": "хуйлах",
+    "lemma": "хуй",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "хуй",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "таагүй",
+    "lemma": "таа",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "таа",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "гэмших",
+    "lemma": "гэм",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "гэм",
+      "ших"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ших"
+    ]
+  },
+  {
+    "surface_word": "сонирхол",
+    "lemma": "сонирхох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "сонирхох",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "шүүмж",
+    "lemma": "шүүх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шүүх",
+      "мж"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мж"
+    ]
+  },
+  {
+    "surface_word": "буудлага",
+    "lemma": "буу",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "буу",
+      "лага"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лага"
+    ]
+  },
+  {
+    "surface_word": "уйтгартай",
+    "lemma": "уйтгар",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "уйтгар",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "хэтэрхий",
+    "lemma": "хэт",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "хэт",
+      "рхий"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "рхий"
+    ]
+  },
+  {
+    "surface_word": "сүсэгтэн",
+    "lemma": "сүсэг",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "сүсэг",
+      "тэн"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэн"
+    ]
+  },
+  {
+    "surface_word": "зохиомол",
+    "lemma": "зохиох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зохиох",
+      "мол"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мол"
+    ]
+  },
+  {
+    "surface_word": "олзлол",
+    "lemma": "олз",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "олз",
+      "лол"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лол"
+    ]
+  },
+  {
+    "surface_word": "хориглох",
+    "lemma": "хорих",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "хорих",
+      "лох"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лох"
+    ]
+  },
+  {
+    "surface_word": "жөтөөрхөх",
+    "lemma": "жөтөө",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "жөтөө",
+      "рхөх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "рхөх"
+    ]
+  },
+  {
+    "surface_word": "гагнуурчин",
+    "lemma": "гагнах",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "гагнах",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "медальтан",
+    "lemma": "медаль",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "медаль",
+      "тан"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тан"
+    ]
+  },
+  {
+    "surface_word": "мэдээгүй",
+    "lemma": "мэдээ",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "мэдээ",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "жигшил",
+    "lemma": "жигших",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "жигших",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "овоолох",
+    "lemma": "овоо",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "овоо",
+      "лох"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лох"
+    ]
+  },
+  {
+    "surface_word": "хэрэгжүүлэлт",
+    "lemma": "хэрэгжүүлэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хэрэгжүүлэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "төлөөс",
+    "lemma": "төлөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "төлөх",
+      "өөс"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "өөс"
+    ]
+  },
+  {
+    "surface_word": "лацдах",
+    "lemma": "лац",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "лац",
+      "дах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "дах"
+    ]
+  },
+  {
+    "surface_word": "болзол",
+    "lemma": "болзох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "болзох",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "агшилт",
+    "lemma": "агших",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "агших",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "харъяат",
+    "lemma": "харъяа",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "харъяа",
+      "т"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "т"
+    ]
+  },
+  {
+    "surface_word": "тэнүүл",
+    "lemma": "тэнэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тэнэх",
+      "үүл"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүл"
+    ]
+  },
+  {
+    "surface_word": "наалдах",
+    "lemma": "наах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "наах",
+      "лдах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лдах"
+    ]
+  },
+  {
+    "surface_word": "эрмэлзлэл",
+    "lemma": "эрмэлзэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эрмэлзэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "даяанч",
+    "lemma": "даяан",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "даяан",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "ховхлох",
+    "lemma": "ховх",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ховх",
+      "лох"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лох"
+    ]
+  },
+  {
+    "surface_word": "хамаарахгүй",
+    "lemma": "хамаарах",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "хамаарах",
+      "гүй"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "гуядах",
+    "lemma": "гуя",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "гуя",
+      "дах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "дах"
+    ]
+  },
+  {
+    "surface_word": "амсах",
+    "lemma": "ам",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ам",
+      "сах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "сах"
+    ]
+  },
+  {
+    "surface_word": "бүдүүлэг",
+    "lemma": "бүдүүн",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "бүдүүн",
+      "лэг"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэг"
+    ]
+  },
+  {
+    "surface_word": "мурийлгах",
+    "lemma": "мурийх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "мурийх",
+      "лгах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лгах"
+    ]
+  },
+  {
+    "surface_word": "дайвалзах",
+    "lemma": "дайвах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "дайвах",
+      "лзах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лзах"
+    ]
+  },
+  {
+    "surface_word": "эмэгтэй",
+    "lemma": "эм",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "эм",
+      "гтэй"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "гтэй"
+    ]
+  },
+  {
+    "surface_word": "сөнөөх",
+    "lemma": "сөнөх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "сөнөх",
+      "өөх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "өөх"
+    ]
+  },
+  {
+    "surface_word": "хүндэтгэлтэй",
+    "lemma": "хүндэт",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "хүндэт",
+      "тэй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "ашиггүй",
+    "lemma": "ашиг",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "ашиг",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "анивчих",
+    "lemma": "аних",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "аних",
+      "вчих"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "вчих"
+    ]
+  },
+  {
+    "surface_word": "тодорхойлолт",
+    "lemma": "тод",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тод",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "тахийлгах",
+    "lemma": "тахийх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "тахийх",
+      "лгах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лгах"
+    ]
+  },
+  {
+    "surface_word": "гуйлга",
+    "lemma": "гуйх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "гуйх",
+      "лга"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лга"
+    ]
+  },
+  {
+    "surface_word": "хөгжүүлэх",
+    "lemma": "хөгжих",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "хөгжих",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "тогтолцоо",
+    "lemma": "тогтолцох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тогтолцох",
+      "оо"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "оо"
+    ]
+  },
+  {
+    "surface_word": "гарц",
+    "lemma": "гарах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "гарах",
+      "ц"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ц"
+    ]
+  },
+  {
+    "surface_word": "муухай",
+    "lemma": "муу",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "муу",
+      "хай"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "хай"
+    ]
+  },
+  {
+    "surface_word": "сүрдүүлэх",
+    "lemma": "сүр",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "сүр",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "зуучлагч",
+    "lemma": "зуучлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зуучлах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "хэтрэлт",
+    "lemma": "хэт",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хэт",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "битүүлэг",
+    "lemma": "битүүлэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "битүүлэх",
+      "г"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "г"
+    ]
+  },
+  {
+    "surface_word": "чангаах",
+    "lemma": "чанга",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "чанга",
+      "аах"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "аах"
+    ]
+  },
+  {
+    "surface_word": "дарамтлах",
+    "lemma": "дарамт",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "дарамт",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "арчаагүй",
+    "lemma": "арчаа",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "арчаа",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "чадваргүй",
+    "lemma": "чадах",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "чадах",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "байлгах",
+    "lemma": "байх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "байх",
+      "лгах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лгах"
+    ]
+  },
+  {
+    "surface_word": "дархлал",
+    "lemma": "дархлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "дархлах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "шатаагч",
+    "lemma": "шатах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шатах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "бөөгнөрөл",
+    "lemma": "бөөгнөрөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бөөгнөрөх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хэрэгжилт",
+    "lemma": "хэрэгжих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хэрэгжих",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "хийсгэх",
+    "lemma": "хийсэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "хийсэх",
+      "гэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гэх"
+    ]
+  },
+  {
+    "surface_word": "орхилт",
+    "lemma": "орхих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "орхих",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "ондооших",
+    "lemma": "ондоо",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ондоо",
+      "ших"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ших"
+    ]
+  },
+  {
+    "surface_word": "зурхай",
+    "lemma": "зурах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зурах",
+      "ай"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ай"
+    ]
+  },
+  {
+    "surface_word": "хайхрамжгүй",
+    "lemma": "хайхрамж",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "хайхрамж",
+      "гүй"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "туршлагагүй",
+    "lemma": "турших",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "турших",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "эмгэнэл",
+    "lemma": "эмгэнэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эмгэнэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "сийлбэрч",
+    "lemma": "сийлбэр",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "сийлбэр",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "өлсгөлөн",
+    "lemma": "өлсөх",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "өлсөх",
+      "гөлөн"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гөлөн"
+    ]
+  },
+  {
+    "surface_word": "агнах",
+    "lemma": "ан ",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ан ",
+      "нах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "нах"
+    ]
+  },
+  {
+    "surface_word": "шингэлэх",
+    "lemma": "шингэн",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "шингэн",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "магтууштай",
+    "lemma": "магтууш",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "магтууш",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "туршилт",
+    "lemma": "турших",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "турших",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "зураас",
+    "lemma": "зурах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зурах",
+      "аас"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аас"
+    ]
+  },
+  {
+    "surface_word": "савчих",
+    "lemma": "савах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "савах",
+      "чих"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "чих"
+    ]
+  },
+  {
+    "surface_word": "сайхан",
+    "lemma": "сайн",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "сайн",
+      "хан"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "хан"
+    ]
+  },
+  {
+    "surface_word": "эргүүл",
+    "lemma": "эргэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эргэх",
+      "үүл"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүл"
+    ]
+  },
+  {
+    "surface_word": "хурдасгагч",
+    "lemma": "хурдасгах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хурдасгах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "гүйцэтгэл",
+    "lemma": "гүйцэд",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "гүйцэд",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "боловсролт",
+    "lemma": "боловсрох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "боловсрох",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "сургамж",
+    "lemma": "сурах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "сурах",
+      "мж"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мж"
+    ]
+  },
+  {
+    "surface_word": "бэрхшээл",
+    "lemma": "бэрх",
+    "lemma_pos": "J",
+    "surface_pos": "N",
+    "sub_word": [
+      "бэрх",
+      "шээл"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "шээл"
+    ]
+  },
+  {
+    "surface_word": "бичиг",
+    "lemma": "бичих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бичих",
+      "г"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "г"
+    ]
+  },
+  {
+    "surface_word": "дүүрэн",
+    "lemma": "дүүрэх",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "дүүрэх",
+      "н"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "н"
+    ]
+  },
+  {
+    "surface_word": "боол",
+    "lemma": "боох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "боох",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "халдлага",
+    "lemma": "халдах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "халдах",
+      "лага"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лага"
+    ]
+  },
+  {
+    "surface_word": "наазгайдах",
+    "lemma": "назгай",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "назгай",
+      "дах"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "дах"
+    ]
+  },
+  {
+    "surface_word": "уурхайчин",
+    "lemma": "уурхай",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "уурхай",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "нисгэгч",
+    "lemma": "нисэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "нисэх",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "харшил",
+    "lemma": "харш",
+    "lemma_pos": "J",
+    "surface_pos": "N",
+    "sub_word": [
+      "харш",
+      "л"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "орлогч",
+    "lemma": "орлох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "орлох",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "сүйдлэх",
+    "lemma": "сүйд",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "сүйд",
+      "лэх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "амьтай",
+    "lemma": "амь",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "амь",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "галлах",
+    "lemma": "гал",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "гал",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "шаардлага",
+    "lemma": "шаардах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шаардах",
+      "лага"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лага"
+    ]
+  },
+  {
+    "surface_word": "шүтлэгтэй",
+    "lemma": "шүтлэг",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "шүтлэг",
+      "тэй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "элээлт",
+    "lemma": "элээх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "элээх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "хуулбарлах",
+    "lemma": "хуулах",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "хуулах",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "буулт",
+    "lemma": "буух",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "буух",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "зөрчигч",
+    "lemma": "зөрчих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зөрчих",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "залхуурал",
+    "lemma": "залхуурах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "залхуурах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "тонуул",
+    "lemma": "тонох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тонох",
+      "уул"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уул"
+    ]
+  },
+  {
+    "surface_word": "үхэл",
+    "lemma": "үхэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "үхэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "таниулах",
+    "lemma": "таних",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "таних",
+      "лах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "бэхжилт",
+    "lemma": "бэхжих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бэхжих",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "тусгац",
+    "lemma": "тусгах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тусгах",
+      "ц"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ц"
+    ]
+  },
+  {
+    "surface_word": "нууцлаг",
+    "lemma": "нуух",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "нуух",
+      "лаг"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лаг"
+    ]
+  },
+  {
+    "surface_word": "боловсруулах",
+    "lemma": "боловсрох",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "боловсрох",
+      "уулах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уулах"
+    ]
+  },
+  {
+    "surface_word": "төлөвлөх",
+    "lemma": "төлөв",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "төлөв",
+      "лөх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лөх"
+    ]
+  },
+  {
+    "surface_word": "үнэмшилгүй",
+    "lemma": "үнэмшил",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "үнэмшил",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "хэтрэх",
+    "lemma": "хэт",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "хэт",
+      "рэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "рэх"
+    ]
+  },
+  {
+    "surface_word": "нуувч",
+    "lemma": "нуух",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "нуух",
+      "вч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "вч"
+    ]
+  },
+  {
+    "surface_word": "хүншүүлэлт",
+    "lemma": "хүншүүлэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хүншүүлэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "бялдууч",
+    "lemma": "бялдуу",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "бялдуу",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "ургамал",
+    "lemma": "ургах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ургах",
+      "мал"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мал"
+    ]
+  },
+  {
+    "surface_word": "дэлгэрэх",
+    "lemma": "дэлгэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "дэлгэх",
+      "рэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "рэх"
+    ]
+  },
+  {
+    "surface_word": "дүгнэлт",
+    "lemma": "дүгнэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "дүгнэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "арилгах",
+    "lemma": "арилах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "арилах",
+      "гах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гах"
+    ]
+  },
+  {
+    "surface_word": "хагацал",
+    "lemma": "хагацах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хагацах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "үүсвэр",
+    "lemma": "үүсэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "үүсэх",
+      "вэр"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "вэр"
+    ]
+  },
+  {
+    "surface_word": "хэвлэгч",
+    "lemma": "хэв",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хэв",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "бүтэц",
+    "lemma": "бүтэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бүтэх",
+      "ц"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ц"
+    ]
+  },
+  {
+    "surface_word": "арчлах",
+    "lemma": "арчих",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "арчих",
+      "лах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "хуульч",
+    "lemma": "хууль",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "хууль",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "үйлдэл",
+    "lemma": "үйл",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "үйл",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хөдөлгөх",
+    "lemma": "хөдөлөх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "хөдөлөх",
+      "гөх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гөх"
+    ]
+  },
+  {
+    "surface_word": "идэмхий",
+    "lemma": "идэх",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "идэх",
+      "мхий"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мхий"
+    ]
+  },
+  {
+    "surface_word": "хяналт",
+    "lemma": "хянах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хянах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "цуурайтах",
+    "lemma": "цуурай",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "цуурай",
+      "тах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тах"
+    ]
+  },
+  {
+    "surface_word": "нүцгэлэх",
+    "lemma": "нүцгэн",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "нүцгэн",
+      "лэх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "тэлэлт",
+    "lemma": "тэлэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тэлэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "идэвхжүүлэх",
+    "lemma": "идэвхжих",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "идэвхжих",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "амталгаа",
+    "lemma": "амтлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "амтлах",
+      "гаа"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гаа"
+    ]
+  },
+  {
+    "surface_word": "гайхалтай",
+    "lemma": "гайхал",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "гайхал",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "удсан",
+    "lemma": "удах",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "удах",
+      "сан"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "сан"
+    ]
+  },
+  {
+    "surface_word": "бадраах",
+    "lemma": "бадрах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "бадрах",
+      "аах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аах"
+    ]
+  },
+  {
+    "surface_word": "хавтаслах",
+    "lemma": "хавтас",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "хавтас",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "тэнэгдүү",
+    "lemma": "тэнэг",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "тэнэг",
+      "дүү"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "дүү"
+    ]
+  },
+  {
+    "surface_word": "бэлхүүсэвч",
+    "lemma": "бэлхүүс",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "бэлхүүс",
+      "вч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "вч"
+    ]
+  },
+  {
+    "surface_word": "цохилох",
+    "lemma": "цохих",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "цохих",
+      "лох"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лох"
+    ]
+  },
+  {
+    "surface_word": "хэрэгцээтэй",
+    "lemma": "хэрэгцээ",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "хэрэгцээ",
+      "тэй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "сүжигтэй",
+    "lemma": "сүжиг",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "сүжиг",
+      "тэй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "дутмаг",
+    "lemma": "дутах",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "дутах",
+      "маг"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "маг"
+    ]
+  },
+  {
+    "surface_word": "хичээнгүй",
+    "lemma": "хичээх",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "хичээх",
+      "нгүй"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "нгүй"
+    ]
+  },
+  {
+    "surface_word": "даажигнал",
+    "lemma": "даажин",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "даажин",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "эзэмшил",
+    "lemma": "эзэмших",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эзэмших",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "гадуурхал",
+    "lemma": "гадуурхах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "гадуурхах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "зарагдах",
+    "lemma": "зарах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "зарах",
+      "гдах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гдах"
+    ]
+  },
+  {
+    "surface_word": "цэвэрхэн",
+    "lemma": "цэвэр",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "цэвэр",
+      "хэн"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "хэн"
+    ]
+  },
+  {
+    "surface_word": "хөдөлмөрчин",
+    "lemma": "хөдлөх",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "хөдлөх",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "шивээс",
+    "lemma": "шивэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шивэх",
+      "ээс"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ээс"
+    ]
+  },
+  {
+    "surface_word": "барималч",
+    "lemma": "баримал",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "баримал",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "уужрал",
+    "lemma": "уужрах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "уужрах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "тархах",
+    "lemma": "тарах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "тарах",
+      "х"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "х"
+    ]
+  },
+  {
+    "surface_word": "түшиглэх",
+    "lemma": "түших",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "түших",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "хөшүүн",
+    "lemma": "хөших",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хөших",
+      "үүн"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүн"
+    ]
+  },
+  {
+    "surface_word": "дэвшил",
+    "lemma": "дэвших",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "дэвших",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хүсэл",
+    "lemma": "хүсэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хүсэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "захиа",
+    "lemma": "захих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "захих",
+      "аа"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аа"
+    ]
+  },
+  {
+    "surface_word": "багахан",
+    "lemma": "бага",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "бага",
+      "хан"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "хан"
+    ]
+  },
+  {
+    "surface_word": "байлдаан",
+    "lemma": "байлдах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "байлдах",
+      "аан"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аан"
+    ]
+  },
+  {
+    "surface_word": "зэргэмж",
+    "lemma": "зэргэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зэргэх",
+      "мж"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мж"
+    ]
+  },
+  {
+    "surface_word": "зөөвөрлөх",
+    "lemma": "зөөвөр",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "зөөвөр",
+      "лөх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лөх"
+    ]
+  },
+  {
+    "surface_word": "удаан",
+    "lemma": "удах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "удах",
+      "аан"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аан"
+    ]
+  },
+  {
+    "surface_word": "олиггүй",
+    "lemma": "олиг",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "олиг",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "хүрэлцэхүй",
+    "lemma": "хүрэлцэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хүрэлцэх",
+      "хүй"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "хүй"
+    ]
+  },
+  {
+    "surface_word": "илчлэх",
+    "lemma": "ил",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "ил",
+      "члэх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "члэх"
+    ]
+  },
+  {
+    "surface_word": "үргэлжлэл",
+    "lemma": "үргэлж",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "үргэлж",
+      "лэл"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "лэл"
+    ]
+  },
+  {
+    "surface_word": "бүртгүүлэх",
+    "lemma": "бүртгэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бүртгэх",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "солилцох",
+    "lemma": "солих",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "солих",
+      "лцох"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лцох"
+    ]
+  },
+  {
+    "surface_word": "цэлийсэн",
+    "lemma": "цэлийх",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "цэлийх",
+      "сэн"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "сэн"
+    ]
+  },
+  {
+    "surface_word": "оршил",
+    "lemma": "орших",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "орших",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "залгамжлал",
+    "lemma": "залгамжлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "залгамжлах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "эгэлдэрлэх",
+    "lemma": "эгэлдэр",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "эгэлдэр",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "тээвэрлэх",
+    "lemma": "тээх",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "тээх",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "тэвдүү",
+    "lemma": "тэвдэх",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "тэвдэх",
+      "үү"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үү"
+    ]
+  },
+  {
+    "surface_word": "өдөөх",
+    "lemma": "өдөх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "өдөх",
+      "өөх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "өөх"
+    ]
+  },
+  {
+    "surface_word": "хангалтгүй",
+    "lemma": "хангах",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "хангах",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "захиргаа",
+    "lemma": "захирах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "захирах",
+      "гаа"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гаа"
+    ]
+  },
+  {
+    "surface_word": "үрчийсэн",
+    "lemma": "үрчиих",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "үрчиих",
+      "сэн"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "сэн"
+    ]
+  },
+  {
+    "surface_word": "жолооч",
+    "lemma": "жолоо",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "жолоо",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "чухалчлах",
+    "lemma": "чухал",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "чухал",
+      "члах"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "члах"
+    ]
+  },
+  {
+    "surface_word": "программч",
+    "lemma": "программ",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "программ",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "таслал",
+    "lemma": "таслах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "таслах",
+      "лал"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лал"
+    ]
+  },
+  {
+    "surface_word": "согтолт",
+    "lemma": "согтох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "согтох",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "сүвлэх",
+    "lemma": "сүв",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "сүв",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "захиалагч",
+    "lemma": "захиалах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "захиалах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "биелүүлэх",
+    "lemma": "биелэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "биелэх",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "бодолт",
+    "lemma": "бодох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бодох",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "иргүй",
+    "lemma": "ир",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "ир",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "угтвар",
+    "lemma": "угтах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "угтах",
+      "вар"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "вар"
+    ]
+  },
+  {
+    "surface_word": "илбэчин",
+    "lemma": "илбэ",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "илбэ",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "дадлага",
+    "lemma": "дадах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "дадах",
+      "лага"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лага"
+    ]
+  },
+  {
+    "surface_word": "эхлүүлэгч",
+    "lemma": "эхлэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эхлэх",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "барилга",
+    "lemma": "барих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "барих",
+      "лга"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лга"
+    ]
+  },
+  {
+    "surface_word": "түрээслэх",
+    "lemma": "түрээс",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "түрээс",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "цохилт",
+    "lemma": "цохих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "цохих",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "шорлох",
+    "lemma": "шор",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "шор",
+      "лох"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лох"
+    ]
+  },
+  {
+    "surface_word": "аялах",
+    "lemma": "аян",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "аян",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "бүтэлгүйтэл",
+    "lemma": "бүтэлгүйтэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бүтэлгүйтэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "толигор",
+    "lemma": "толь",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "толь",
+      "гор"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гор"
+    ]
+  },
+  {
+    "surface_word": "хаалга",
+    "lemma": "хаах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хаах",
+      "лга"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лга"
+    ]
+  },
+  {
+    "surface_word": "наймалжин",
+    "lemma": "наймал",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "наймал",
+      "жин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "жин"
+    ]
+  },
+  {
+    "surface_word": "найруулагч",
+    "lemma": "найруулах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "найруулах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "хуваагдал",
+    "lemma": "хуваагдах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хуваагдах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "эрхэмсэг",
+    "lemma": "эрхэм",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "эрхэм",
+      "сэг"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "сэг"
+    ]
+  },
+  {
+    "surface_word": "хамаагүй",
+    "lemma": "хамаа",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "хамаа",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "илэрхийлэх",
+    "lemma": "илэрхий",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "илэрхий",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "хагарал",
+    "lemma": "хагарах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хагарах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хүргэх",
+    "lemma": "хүрэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "хүрэх",
+      "гэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гэх"
+    ]
+  },
+  {
+    "surface_word": "цуглаан",
+    "lemma": "цуглах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "цуглах",
+      "аан"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аан"
+    ]
+  },
+  {
+    "surface_word": "давтлага",
+    "lemma": "давтах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "давтах",
+      "лага"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лага"
+    ]
+  },
+  {
+    "surface_word": "саатал",
+    "lemma": "саатах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "саатах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "чийглэх",
+    "lemma": "чийг",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "чийг",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "шинэчлэл",
+    "lemma": "шинэ",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шинэ",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "ухуулга",
+    "lemma": "ухуулах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ухуулах",
+      "га"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "га"
+    ]
+  },
+  {
+    "surface_word": "цочоох",
+    "lemma": "цочих",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "цочих",
+      "оох"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "оох"
+    ]
+  },
+  {
+    "surface_word": "өргөтгөл",
+    "lemma": "өргөтгөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "өргөтгөх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "булгилах",
+    "lemma": "булаг",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "булаг",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "зальхай",
+    "lemma": "заль",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "заль",
+      "хай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "хай"
+    ]
+  },
+  {
+    "surface_word": "угсралт",
+    "lemma": "угсрах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "угсрах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "биширмээр",
+    "lemma": "биширэх",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "биширэх",
+      "мээр"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мээр"
+    ]
+  },
+  {
+    "surface_word": "үхүүлэх",
+    "lemma": "үхэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "үхэх",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "унагах",
+    "lemma": "унах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "унах",
+      "гах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гах"
+    ]
+  },
+  {
+    "surface_word": "цуглуулга",
+    "lemma": "цуглах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "цуглах",
+      "лга"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лга"
+    ]
+  },
+  {
+    "surface_word": "багцаалах",
+    "lemma": "багцаа",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "багцаа",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "батжилт",
+    "lemma": "батжих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "батжих",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "тааруухан",
+    "lemma": "тааруу",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "тааруу",
+      "хан"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "хан"
+    ]
+  },
+  {
+    "surface_word": "далайцтай",
+    "lemma": "далайц",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "далайц",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "бөглөө",
+    "lemma": "бөглөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бөглөх",
+      "өө"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "өө"
+    ]
+  },
+  {
+    "surface_word": "сургалт",
+    "lemma": "сурах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "сурах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "амьдрал",
+    "lemma": "амьдрах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "амьдрах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "болгох",
+    "lemma": "болох",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "болох",
+      "гох"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гох"
+    ]
+  },
+  {
+    "surface_word": "гайхамшигтай",
+    "lemma": "гайхамшиг",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "гайхамшиг",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "уулзвар",
+    "lemma": "уулзах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "уулзах",
+      "вар"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "вар"
+    ]
+  },
+  {
+    "surface_word": "хариу",
+    "lemma": "харих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "харих",
+      "уу"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уу"
+    ]
+  },
+  {
+    "surface_word": "тариачин",
+    "lemma": "тариа",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "тариа",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "зэрэглэл",
+    "lemma": "зэрэглэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зэрэглэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "ажиглах",
+    "lemma": "ажиг",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ажиг",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "дэлбэлэх",
+    "lemma": "дэлбэ",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "дэлбэ",
+      "лэх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "гишгэлэх",
+    "lemma": "гишгэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "гишгэх",
+      "лэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "суулгац",
+    "lemma": "суух",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "суух",
+      "ц"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ц"
+    ]
+  },
+  {
+    "surface_word": "ухаарал",
+    "lemma": "аврах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "аврах",
+      "рал"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "рал"
+    ]
+  },
+  {
+    "surface_word": "зогсоох",
+    "lemma": "зогсох",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "зогсох",
+      "оох"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "оох"
+    ]
+  },
+  {
+    "surface_word": "илрэх",
+    "lemma": "ил",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "ил",
+      "рэх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "рэх"
+    ]
+  },
+  {
+    "surface_word": "оромж",
+    "lemma": "орох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "орох",
+      "мж"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мж"
+    ]
+  },
+  {
+    "surface_word": "ариутгал",
+    "lemma": "ариутгах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ариутгах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "илтгэл",
+    "lemma": "илтгэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "илтгэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "итгэлгүй",
+    "lemma": "итгэл",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "итгэл",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "нөөцлөх",
+    "lemma": "нөөх",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "нөөх",
+      "лөх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лөх"
+    ]
+  },
+  {
+    "surface_word": "зөвшилцөл",
+    "lemma": "зөвшилцөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зөвшилцөх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "зовиуртай",
+    "lemma": "зовиур",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "зовиур",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "илээч",
+    "lemma": "илэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "илэх",
+      "ээч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ээч"
+    ]
+  },
+  {
+    "surface_word": "нэмэгдэх",
+    "lemma": "нэмэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "нэмэх",
+      "гдэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гдэх"
+    ]
+  },
+  {
+    "surface_word": "урвалт",
+    "lemma": "урвах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "урвах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "төлөөлөгч",
+    "lemma": "төлөөлөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "төлөөлөх",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "буулгах",
+    "lemma": "буух",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "буух",
+      "лгах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лгах"
+    ]
+  },
+  {
+    "surface_word": "барьцаалах",
+    "lemma": "барьцаа",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "барьцаа",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "үүсгүүр",
+    "lemma": "үүсэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "үүсэх",
+      "үүр"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүр"
+    ]
+  },
+  {
+    "surface_word": "гуйлгачин",
+    "lemma": "гуйх",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "гуйх",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "ирвэгнүүлэх",
+    "lemma": "ирвэгнэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ирвэгнэх",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "уяхан",
+    "lemma": "уян",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "уян",
+      "хан"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "хан"
+    ]
+  },
+  {
+    "surface_word": "амьсгалах",
+    "lemma": "амьсгал",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "амьсгал",
+      "х"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "х"
+    ]
+  },
+  {
+    "surface_word": "байгууламж",
+    "lemma": "байгуулах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "байгуулах",
+      "мж"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мж"
+    ]
+  },
+  {
+    "surface_word": "түгдрэлгүй",
+    "lemma": "түгдрэл",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "түгдрэл",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "хөдөлмөр",
+    "lemma": "хөдлөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хөдлөх",
+      "мөр"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мөр"
+    ]
+  },
+  {
+    "surface_word": "аврагч",
+    "lemma": "аврах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "аврах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "зайтай",
+    "lemma": "зай",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "зай",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "бялдуучлал",
+    "lemma": "бялдуучлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бялдуучлах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "зөрөлдөөн",
+    "lemma": "зөрөлдөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зөрөлдөх",
+      "өөн"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "өөн"
+    ]
+  },
+  {
+    "surface_word": "утгагүй",
+    "lemma": "утга",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "утга",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "хуучирсан",
+    "lemma": "хуучирах",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "хуучирах",
+      "сан"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "сан"
+    ]
+  },
+  {
+    "surface_word": "алдаа",
+    "lemma": "алдах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "алдах",
+      "аа"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аа"
+    ]
+  },
+  {
+    "surface_word": "дуулах",
+    "lemma": "дуу",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "дуу",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "эрдэмтэн",
+    "lemma": "эрдэм",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "эрдэм",
+      "тэн"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэн"
+    ]
+  },
+  {
+    "surface_word": "зохицох",
+    "lemma": "зохих",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "зохих",
+      "цох"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "цох"
+    ]
+  },
+  {
+    "surface_word": "залхуутай",
+    "lemma": "залхуу",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "залхуу",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "саадгүй",
+    "lemma": "саад",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "саад",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "дагуулах",
+    "lemma": "дагах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "дагах",
+      "уулах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уулах"
+    ]
+  },
+  {
+    "surface_word": "сүрдэх",
+    "lemma": "сүр",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "сүр",
+      "дэх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "дэх"
+    ]
+  },
+  {
+    "surface_word": "холдолт",
+    "lemma": "хол",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хол",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "үндэслэл",
+    "lemma": "үндэслэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "үндэслэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хамаатай",
+    "lemma": "хамаа",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "хамаа",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "засалт",
+    "lemma": "засах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "засах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "манлайлах",
+    "lemma": "манлай",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "манлай",
+      "лах"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "эргүүлэлт",
+    "lemma": "эргэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эргэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "зооглох",
+    "lemma": "зоог",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "зоог",
+      "лох"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лох"
+    ]
+  },
+  {
+    "surface_word": "итгэмээргүй",
+    "lemma": "итгэмээр",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "итгэмээр",
+      "гүй"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "товчлуур",
+    "lemma": "товчлох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "товчлох",
+      "уур"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уур"
+    ]
+  },
+  {
+    "surface_word": "тэгшхэн",
+    "lemma": "тэгш",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "тэгш",
+      "хэн"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "хэн"
+    ]
+  },
+  {
+    "surface_word": "өвдөлт",
+    "lemma": "өвдөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "өвдөх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "сэдэв",
+    "lemma": "сэдэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "сэдэх",
+      "в"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "в"
+    ]
+  },
+  {
+    "surface_word": "муудах",
+    "lemma": "муу ",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "муу ",
+      "дах"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "дах"
+    ]
+  },
+  {
+    "surface_word": "нээгдэх",
+    "lemma": "нээх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "нээх",
+      "гдэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гдэх"
+    ]
+  },
+  {
+    "surface_word": "уургалах",
+    "lemma": "уурга",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "уурга",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "дуулаач",
+    "lemma": "дуу",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "дуу",
+      "ч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "залгалт",
+    "lemma": "залгах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "залгах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "суурилуулах",
+    "lemma": "суурилах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "суурилах",
+      "уулах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уулах"
+    ]
+  },
+  {
+    "surface_word": "заавар",
+    "lemma": "заах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "заах",
+      "вар"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "вар"
+    ]
+  },
+  {
+    "surface_word": "мултлах",
+    "lemma": "мулт",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "мулт",
+      "лах"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "нийтлэл",
+    "lemma": "нийтлэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "нийтлэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "баттай",
+    "lemma": "бат",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "бат",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "гаргалт",
+    "lemma": "гарах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "гарах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "ажиллах",
+    "lemma": "ажил",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ажил",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "тэрслэх",
+    "lemma": "тэрс",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "тэрс",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "дэгээдэх",
+    "lemma": "дэгээ",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "дэгээ",
+      "дэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "дэх"
+    ]
+  },
+  {
+    "surface_word": "сэтгүүлч",
+    "lemma": "сэтгүүл",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "сэтгүүл",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "хурдасгал",
+    "lemma": "хурдасгах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хурдасгах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "нийлүүлэх",
+    "lemma": "нийлэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "нийлэх",
+      "үүлэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүлэх"
+    ]
+  },
+  {
+    "surface_word": "ялагдагч",
+    "lemma": "ялагдах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ялагдах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "түшиг",
+    "lemma": "түших",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "түших",
+      "г"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "г"
+    ]
+  },
+  {
+    "surface_word": "сургуулилт",
+    "lemma": "сургууль",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "сургууль",
+      "лт"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "жигшим",
+    "lemma": "жигших",
+    "lemma_pos": "V",
+    "surface_pos": "J",
+    "sub_word": [
+      "жигших",
+      "м"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "м"
+    ]
+  },
+  {
+    "surface_word": "оньслох",
+    "lemma": "оньс",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "оньс",
+      "лох"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лох"
+    ]
+  },
+  {
+    "surface_word": "тустай",
+    "lemma": "тус",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "тус",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "тэмдэглэгээ",
+    "lemma": "тэмдэг",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тэмдэг",
+      "гээ"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гээ"
+    ]
+  },
+  {
+    "surface_word": "таарамж",
+    "lemma": "таарах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "таарах",
+      "мж"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "мж"
+    ]
+  },
+  {
+    "surface_word": "аягалах",
+    "lemma": "аяга",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "аяга",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "төвлөрүүлэлт",
+    "lemma": "төвлөрүүлэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "төвлөрүүлэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "хавсралт",
+    "lemma": "хавсрах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хавсрах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "хөдлөшгүй",
+    "lemma": "хөдлөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хөдлөх",
+      "шгүй"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "шгүй"
+    ]
+  },
+  {
+    "surface_word": "илгээгч",
+    "lemma": "илгээх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "илгээх",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "сурагч",
+    "lemma": "сурах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "сурах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "үсрэлт",
+    "lemma": "үсрэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "үсрэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "хэмжигч",
+    "lemma": "хэмжих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хэмжих",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "хангалттай",
+    "lemma": "хангах",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "хангах",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "төмөрлөг",
+    "lemma": "төмөр",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "төмөр",
+      "лөг"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лөг"
+    ]
+  },
+  {
+    "surface_word": "үгүйсгэх",
+    "lemma": "үгүй",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "үгүй",
+      "сгэх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "сгэх"
+    ]
+  },
+  {
+    "surface_word": "хэмжилт",
+    "lemma": "хэмжих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хэмжих",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "дадлагатай",
+    "lemma": "дадах",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "дадах",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "хиймэл",
+    "lemma": "хий",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "хий",
+      "мэл"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "мэл"
+    ]
+  },
+  {
+    "surface_word": "хохирол",
+    "lemma": "хохирох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хохирох",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "технологич",
+    "lemma": "технологи",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "технологи",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "үрлэг",
+    "lemma": "үрэх",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "үрэх",
+      "лэг"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэг"
+    ]
+  },
+  {
+    "surface_word": "сүйтгэлт",
+    "lemma": "сүйтгэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "сүйтгэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "далайчин",
+    "lemma": "далай",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "далай",
+      "чин"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "тохуурхал",
+    "lemma": "тохуурхах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тохуурхах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "нууцлалт",
+    "lemma": "нууцлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "нууцлах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "томилгоо",
+    "lemma": "томилох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "томилох",
+      "гоо"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гоо"
+    ]
+  },
+  {
+    "surface_word": "санал",
+    "lemma": "санах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "санах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "үзэсгэлэнтэй",
+    "lemma": "үзэх",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "үзэх",
+      "тэй"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "тоглуулах",
+    "lemma": "тоглох",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "тоглох",
+      "уулах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уулах"
+    ]
+  },
+  {
+    "surface_word": "таглаа",
+    "lemma": "таг",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "таг",
+      "аа"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аа"
+    ]
+  },
+  {
+    "surface_word": "шийдвэрлэгч",
+    "lemma": "шийдэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шийдэх",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "ахиц",
+    "lemma": "ахих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ахих",
+      "ц"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ц"
+    ]
+  },
+  {
+    "surface_word": "зугтуул",
+    "lemma": "зугтах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зугтах",
+      "уул"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уул"
+    ]
+  },
+  {
+    "surface_word": "төлөвших",
+    "lemma": "төлөв",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "төлөв",
+      "ших"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ших"
+    ]
+  },
+  {
+    "surface_word": "засвар",
+    "lemma": "засах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "засах",
+      "вар"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "вар"
+    ]
+  },
+  {
+    "surface_word": "эвгүй",
+    "lemma": "эв",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "эв",
+      "гүй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "гүй"
+    ]
+  },
+  {
+    "surface_word": "харилцаа",
+    "lemma": "харилцах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "харилцах",
+      "аа"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аа"
+    ]
+  },
+  {
+    "surface_word": "үйлчилгээ",
+    "lemma": "үйлчилэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "үйлчилэх",
+      "гээ"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гээ"
+    ]
+  },
+  {
+    "surface_word": "хангалуун",
+    "lemma": "хангал",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "хангал",
+      "уун"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "уун"
+    ]
+  },
+  {
+    "surface_word": "ирмэгтэй",
+    "lemma": "ирмэг",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "ирмэг",
+      "тэй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "инээмсэглэл",
+    "lemma": "инээмсэглэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "инээмсэглэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "гоёл",
+    "lemma": "гоё",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "гоё",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "амт",
+    "lemma": "ам",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ам",
+      "т"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "т"
+    ]
+  },
+  {
+    "surface_word": "цэцэглэлт",
+    "lemma": "цэцэглэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "цэцэглэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "нийлүүлэлт",
+    "lemma": "нийлэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "нийлэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "бөхийлгөх",
+    "lemma": "бөхийх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "бөхийх",
+      "лгөх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лгөх"
+    ]
+  },
+  {
+    "surface_word": "тарилга",
+    "lemma": "тарих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тарих",
+      "лга"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лга"
+    ]
+  },
+  {
+    "surface_word": "философич",
+    "lemma": "философи",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "философи",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "гэлэнмаа",
+    "lemma": "гэлэн",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "гэлэн",
+      "маа"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "маа"
+    ]
+  },
+  {
+    "surface_word": "хөөрөлт",
+    "lemma": "хөөрөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хөөрөх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "обойдох",
+    "lemma": "обой",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "обой",
+      "дох"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "дох"
+    ]
+  },
+  {
+    "surface_word": "тэрслэгч",
+    "lemma": "тэрс",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тэрс",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "уриалга",
+    "lemma": "уриалах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "уриалах",
+      "га"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "га"
+    ]
+  },
+  {
+    "surface_word": "таглах",
+    "lemma": "таг",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "таг",
+      "лах"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лах"
+    ]
+  },
+  {
+    "surface_word": "ажилчин",
+    "lemma": "ажил",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ажил",
+      "чин"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "чин"
+    ]
+  },
+  {
+    "surface_word": "нэгдэл",
+    "lemma": "нэгдэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "нэгдэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хэлэхүй",
+    "lemma": "хэл",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хэл",
+      "үй"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үй"
+    ]
+  },
+  {
+    "surface_word": "тэнийлгэх",
+    "lemma": "тэнийх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "тэнийх",
+      "лгэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лгэх"
+    ]
+  },
+  {
+    "surface_word": "түдгэлзүүлэлт",
+    "lemma": "түдгэлзүүлэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "түдгэлзүүлэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "зорчигч",
+    "lemma": "зорчих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "зорчих",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "ганцаардал",
+    "lemma": "ганцаардах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ганцаардах",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "тэврэлт",
+    "lemma": "тэврэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "тэврэх",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "саармагжих",
+    "lemma": "саармаг",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "саармаг",
+      "жих"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "жих"
+    ]
+  },
+  {
+    "surface_word": "нэвтрэх",
+    "lemma": "нэвт",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "нэвт",
+      "рэх"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "рэх"
+    ]
+  },
+  {
+    "surface_word": "амархан",
+    "lemma": "амар",
+    "lemma_pos": "J",
+    "surface_pos": "J",
+    "sub_word": [
+      "амар",
+      "хан"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "хан"
+    ]
+  },
+  {
+    "surface_word": "улалзуулах",
+    "lemma": "улалзах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "улалзах",
+      "уулах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "уулах"
+    ]
+  },
+  {
+    "surface_word": "судлаач",
+    "lemma": "судлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "судлах",
+      "аач"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аач"
+    ]
+  },
+  {
+    "surface_word": "нүүлгэх",
+    "lemma": "нүүх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "нүүх",
+      "лгэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лгэх"
+    ]
+  },
+  {
+    "surface_word": "хөдөлгүүр",
+    "lemma": "хөдөлөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хөдөлөх",
+      "р"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "р"
+    ]
+  },
+  {
+    "surface_word": "үйлдвэрлэл",
+    "lemma": "үйл",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "үйл",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "орлуулалт",
+    "lemma": "орлох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "орлох",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "асуулга",
+    "lemma": "асуух",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "асуух",
+      "лга"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лга"
+    ]
+  },
+  {
+    "surface_word": "цоорхой",
+    "lemma": "цоорох",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "цоорох",
+      "ой"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ой"
+    ]
+  },
+  {
+    "surface_word": "хөшүүрэг",
+    "lemma": "хөших",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хөших",
+      "үүрэг"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүрэг"
+    ]
+  },
+  {
+    "surface_word": "сулрах",
+    "lemma": "сул",
+    "lemma_pos": "J",
+    "surface_pos": "V",
+    "sub_word": [
+      "сул",
+      "рах"
+    ],
+    "word_class": "J",
+    "prefix": [],
+    "suffix": [
+      "рах"
+    ]
+  },
+  {
+    "surface_word": "сургах",
+    "lemma": "сурах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "сурах",
+      "гах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гах"
+    ]
+  },
+  {
+    "surface_word": "аюултай",
+    "lemma": "аюул",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "аюул",
+      "тай"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тай"
+    ]
+  },
+  {
+    "surface_word": "тээглэх",
+    "lemma": "тээг",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "тээг",
+      "лэх"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "дахилт",
+    "lemma": "дахих",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "дахих",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "хийлч",
+    "lemma": "хийл",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "хийл",
+      "ч"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ч"
+    ]
+  },
+  {
+    "surface_word": "хөгжим",
+    "lemma": "хөг",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "хөг",
+      "жим"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "жим"
+    ]
+  },
+  {
+    "surface_word": "эргэлзээ",
+    "lemma": "эргэлзэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "эргэлзэх",
+      "ээ"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ээ"
+    ]
+  },
+  {
+    "surface_word": "түгшүүртэй",
+    "lemma": "түгших",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "түгших",
+      "тэй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "эвдлэх",
+    "lemma": "эвдэх",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "эвдэх",
+      "лэх"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лэх"
+    ]
+  },
+  {
+    "surface_word": "байрлал",
+    "lemma": "байр",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "байр",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "шаталт",
+    "lemma": "шатах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "шатах",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  },
+  {
+    "surface_word": "өнцөгтэй",
+    "lemma": "өнцөг",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "өнцөг",
+      "тэй"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "тэй"
+    ]
+  },
+  {
+    "surface_word": "егөөдөл",
+    "lemma": "егөөдөх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "егөөдөх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "барьцалдах",
+    "lemma": "барьцах",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "барьцах",
+      "лдах"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лдах"
+    ]
+  },
+  {
+    "surface_word": "судлагч",
+    "lemma": "судлах",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "судлах",
+      "гч"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "гч"
+    ]
+  },
+  {
+    "surface_word": "дэлгүүр",
+    "lemma": "дэлгэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "дэлгэх",
+      "үүр"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "үүр"
+    ]
+  },
+  {
+    "surface_word": "хуйлаас",
+    "lemma": "хуй",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хуй",
+      "аас"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "аас"
+    ]
+  },
+  {
+    "surface_word": "чиглэл",
+    "lemma": "чиглэх",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "чиглэх",
+      "л"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "л"
+    ]
+  },
+  {
+    "surface_word": "хортой",
+    "lemma": "хор",
+    "lemma_pos": "N",
+    "surface_pos": "J",
+    "sub_word": [
+      "хор",
+      "той"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "той"
+    ]
+  },
+  {
+    "surface_word": "хэвлэлт",
+    "lemma": "хэв",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хэв",
+      "лт"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "лт"
+    ]
+  }
+]

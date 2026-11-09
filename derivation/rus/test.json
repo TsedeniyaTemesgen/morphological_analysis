@@ -1,0 +1,6249 @@
+[
+  {
+    "surface_word": "канонический",
+    "lemma": "канон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "канон",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "изодрать",
+    "lemma": "драть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "изо",
+      "-драть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бидонный",
+    "lemma": "бидон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бидон",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фельдфебельский",
+    "lemma": "фельдфебель",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "фельдфебель",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "мусорный",
+    "lemma": "мусор",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "мусор",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "каторжный",
+    "lemma": "каторга",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "каторга",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фонтанировать",
+    "lemma": "фонтан",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "фонтан",
+      "-ировать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "порознь",
+    "lemma": "рознь",
+    "lemma_pos": "N",
+    "surface_pos": "ADV",
+    "sub_word": [
+      "по",
+      "-рознь"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "добреть",
+    "lemma": "добрый",
+    "lemma_pos": "ADJ",
+    "surface_pos": "V",
+    "sub_word": [
+      "добрый",
+      "-еть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "факелок",
+    "lemma": "факел",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "факел",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "аркадянка",
+    "lemma": "аркадянин",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "аркадянин",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "лепка",
+    "lemma": "лепить",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "лепить",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "миллионный",
+    "lemma": "миллион",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "миллион",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ненастный",
+    "lemma": "ненастье",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ненастье",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вжать",
+    "lemma": "жать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "в",
+      "-жать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "выкрасть",
+    "lemma": "красть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "вы",
+      "-красть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "забрить",
+    "lemma": "брить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-брить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сигарный",
+    "lemma": "сигара",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "сигара",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бальзамировать",
+    "lemma": "бальзам",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "бальзам",
+      "-ировать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "штрафовать",
+    "lemma": "штраф",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "штраф",
+      "-овать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "торсовый",
+    "lemma": "торс",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "торс",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "расклевать",
+    "lemma": "клевать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "рас",
+      "-клевать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "тверитянин",
+    "lemma": "тверь",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "тверь",
+      "-итянин"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "спроектировать",
+    "lemma": "проект",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "с",
+      "-проект",
+      "-ировать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "побелить",
+    "lemma": "белить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-белить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "придумать",
+    "lemma": "дума",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "при",
+      "-дума",
+      "-ать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вдумчивый",
+    "lemma": "вдуматься",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "вдуматься",
+      "-чивый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "мальчишество",
+    "lemma": "мальчишник",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "мальчишник",
+      "-ество"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вьюжный",
+    "lemma": "вьюга",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "вьюга",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "позорить",
+    "lemma": "позор",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "позор",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "эротоманка",
+    "lemma": "эротоман",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "эротоман",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пацанёнок",
+    "lemma": "пацан",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "пацан",
+      "-ёнок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пациентка",
+    "lemma": "пациент",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "пациент",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "конформистский",
+    "lemma": "конформист",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "конформист",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ратный",
+    "lemma": "рать",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "рать",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "окрест",
+    "lemma": "крест",
+    "lemma_pos": "N",
+    "surface_pos": "ADV",
+    "sub_word": [
+      "о",
+      "-крест"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "автовокзальный",
+    "lemma": "вокзал",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "авто",
+      "-вокзал",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гестаповский",
+    "lemma": "гестаповец",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "гестаповец",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "нитка",
+    "lemma": "нить",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "нить",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "готский",
+    "lemma": "гот",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "гот",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "теряться",
+    "lemma": "терять",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "терять",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ксенофобский",
+    "lemma": "ксенофоб",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ксенофоб",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "колбаска",
+    "lemma": "колбаса",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "колбаса",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "обезьянка",
+    "lemma": "обезьяна",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "обезьяна",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "зарыть",
+    "lemma": "рыть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-рыть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "губернаторский",
+    "lemma": "губернатор",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "губернатор",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "психология",
+    "lemma": "психолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "психолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "застлать",
+    "lemma": "стлать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-стлать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "зырянский",
+    "lemma": "зырянин",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "зырянин",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "жутик",
+    "lemma": "жуть",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "жуть",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "палуба",
+    "lemma": "луб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "па",
+      "-луб"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "штатный",
+    "lemma": "штат",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "штат",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вертолётик",
+    "lemma": "вертолёт",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "вертолёт",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "эвристический",
+    "lemma": "эвристика",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "эвристика",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "плюсовый",
+    "lemma": "плюс",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "плюс",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вздёрнуть",
+    "lemma": "дёрнуть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "вз",
+      "-дёрнуть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "рабство",
+    "lemma": "раб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "раб",
+      "-ство"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "встать",
+    "lemma": "стать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "вз",
+      "-стать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "лагерник",
+    "lemma": "лагерь",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "лагерь",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "беконный",
+    "lemma": "бекон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бекон",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "манифестация",
+    "lemma": "манифест",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "манифест",
+      "-ировать",
+      "-ация"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "июльский",
+    "lemma": "июль",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "июль",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гримёр",
+    "lemma": "грим",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "грим",
+      "-ёр"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "табуреточка",
+    "lemma": "табурет",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "табурет",
+      "-ка",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "районный",
+    "lemma": "район",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "район",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "воинский",
+    "lemma": "воин",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "воин",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "поспать",
+    "lemma": "спать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-спать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вероотступнический",
+    "lemma": "вероотступник",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "вероотступник",
+      "-еский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ханец",
+    "lemma": "хань",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "хань",
+      "-ец"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "погасить",
+    "lemma": "гасить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-гасить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "автобаза",
+    "lemma": "база",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "авто",
+      "-база"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пытчивый",
+    "lemma": "пытать",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "пытать",
+      "-ся",
+      "-чивый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бензиновый",
+    "lemma": "бензин",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бензин",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "винительный",
+    "lemma": "вина",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "вина",
+      "-ить",
+      "-тельный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "побеспокоиться",
+    "lemma": "беспокоить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-беспокоить",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пулемётный",
+    "lemma": "пулемёт",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "пулемёт",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "лавандовый",
+    "lemma": "лаванда",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "лаванда",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ускоритель",
+    "lemma": "ускорить",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ускорить",
+      "-тель"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "тенёк",
+    "lemma": "тень",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "тень",
+      "-ёк"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "волчище",
+    "lemma": "волк",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "волк",
+      "-ище"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "импрессионистический",
+    "lemma": "импрессионист",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "импрессионист",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "краевой",
+    "lemma": "край",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "край",
+      "-евой"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "зимник",
+    "lemma": "зима",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "зима",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "попросить",
+    "lemma": "просить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-просить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пацанский",
+    "lemma": "пацан",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "пацан",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сбить",
+    "lemma": "бить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "с",
+      "-бить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "таджикский",
+    "lemma": "таджик",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "таджик",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "разломать",
+    "lemma": "лом",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "раз",
+      "-лом",
+      "-ить",
+      "-ать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "селёдка",
+    "lemma": "сельдь",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "сельдь",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "рейсовый",
+    "lemma": "рейс",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "рейс",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "поменяться",
+    "lemma": "менять",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-менять",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "звонарь",
+    "lemma": "звон",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "звон",
+      "-арь"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "эпохальность",
+    "lemma": "эпоха",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "эпоха",
+      "-альный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "экзистенциалистский",
+    "lemma": "экзистенциалист",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "экзистенциалист",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "шубка",
+    "lemma": "шуба",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "шуба",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "народный",
+    "lemma": "род",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "на",
+      "-род",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гражданство",
+    "lemma": "гражданин",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "гражданин",
+      "-ство"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "магнитофонный",
+    "lemma": "магнитофон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "магнитофон",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "крестный",
+    "lemma": "крест",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "крест",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "чадский",
+    "lemma": "чад",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "чад",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "искорёживаться",
+    "lemma": "корёжить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ис",
+      "-корёжить",
+      "-ивать",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "шурупный",
+    "lemma": "шуруп",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "шуруп",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бычить",
+    "lemma": "бык",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "бык",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "безбоязненность",
+    "lemma": "безбоязненный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "безбоязненный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "собутыльничать",
+    "lemma": "собутыльник",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "собутыльник",
+      "-ать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "авиамодельный",
+    "lemma": "авиамодель",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "авиамодель",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "законник",
+    "lemma": "закон",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "закон",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "компьютерщик",
+    "lemma": "компьютер",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "компьютер",
+      "-щик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ампутироваться",
+    "lemma": "ампутировать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ампутировать",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "алкогель",
+    "lemma": "гель",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "алко",
+      "-гель"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бережок",
+    "lemma": "берег",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "берег",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "прождать",
+    "lemma": "ждать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "про",
+      "-ждать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "абитуриентка",
+    "lemma": "абитуриент",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "абитуриент",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ительменка",
+    "lemma": "ительмен",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ительмен",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "палисадник",
+    "lemma": "палисад",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "палисад",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пачка",
+    "lemma": "пак",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "пак",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "желтизна",
+    "lemma": "жёлтый",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "жёлтый",
+      "-изна"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гнойный",
+    "lemma": "гной",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "гной",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "выбросить",
+    "lemma": "бросить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "вы",
+      "-бросить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "декретировать",
+    "lemma": "декрет",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "декрет",
+      "-ировать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "изгнать",
+    "lemma": "гнать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "из",
+      "-гнать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гитлеровский",
+    "lemma": "гитлеровец",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "гитлеровец",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "безбожник",
+    "lemma": "безбожие",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "безбожие",
+      "-ный",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "новеллист",
+    "lemma": "новелла",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "новелла",
+      "-ист"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "мифический",
+    "lemma": "миф",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "миф",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "когерентность",
+    "lemma": "когерентный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "когерентный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сосудистый",
+    "lemma": "сосуд",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "сосуд",
+      "-истый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "шкафчик",
+    "lemma": "шкаф",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "шкаф",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "языковый",
+    "lemma": "язык",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "язык",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ракетка",
+    "lemma": "ракета",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ракета",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "миланка",
+    "lemma": "миланец",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "миланец",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вокзальчик",
+    "lemma": "вокзал",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "вокзал",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "предприниматель",
+    "lemma": "предпринимать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "предпринимать",
+      "-тель"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гнойник",
+    "lemma": "гной",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "гной",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "общажный",
+    "lemma": "общага",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "общага",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "осоковый",
+    "lemma": "осока",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "осока",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "предстать",
+    "lemma": "стать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "пред",
+      "-стать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "жёсткость",
+    "lemma": "жёсткий",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "жёсткий",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "супружество",
+    "lemma": "супруг",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "супруг",
+      "-ество"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "отбить",
+    "lemma": "бить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "от",
+      "-бить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "обжечь",
+    "lemma": "жечь",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "об",
+      "-жечь"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "убечь",
+    "lemma": "бечь",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "у",
+      "-бечь"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "членский",
+    "lemma": "член",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "член",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "иллюстрация",
+    "lemma": "иллюстрировать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "иллюстрировать",
+      "-ация"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "авансировать",
+    "lemma": "аванс",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "аванс",
+      "-ировать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "смрадить",
+    "lemma": "смрад",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "смрад",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "щавельный",
+    "lemma": "щавель",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "щавель",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ягодник",
+    "lemma": "ягода",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ягода",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "попугайчик",
+    "lemma": "попугай",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "попугай",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "волхвовать",
+    "lemma": "волхв",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "волхв",
+      "-овать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гниль",
+    "lemma": "гнить",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "гнить",
+      "-ль"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "захлёбываться",
+    "lemma": "захлёбывать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "захлёбывать",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "женить",
+    "lemma": "жена",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "жена",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "однокурсница",
+    "lemma": "однокурсник",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "однокурсник",
+      "-ница"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "домишко",
+    "lemma": "дом",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "дом",
+      "-ишко"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "альгология",
+    "lemma": "альголог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "альголог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "минчанка",
+    "lemma": "минск",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "минск",
+      "-чанин",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "завистник",
+    "lemma": "зависть",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "зависть",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "казнить",
+    "lemma": "казнь",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "казнь",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "физкультурник",
+    "lemma": "физкультура",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "физкультура",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ямка",
+    "lemma": "яма",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "яма",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "помология",
+    "lemma": "помолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "помолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "нулёвый",
+    "lemma": "нуль",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "нуль",
+      "-ёвый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "хамить",
+    "lemma": "хам",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "хам",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "дальнобойность",
+    "lemma": "дальнобойный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "дальнобойный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "аванпостный",
+    "lemma": "аванпост",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "аванпост",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "отбыть",
+    "lemma": "быть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "от",
+      "-быть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "посредничать",
+    "lemma": "посредник",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "посредник",
+      "-ать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "семантический",
+    "lemma": "семантика",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "семантика",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ааронов",
+    "lemma": "аарон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "аарон",
+      "-ов"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "абонентный",
+    "lemma": "абонент",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "абонент",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "поблагодарить",
+    "lemma": "благодарить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-благодарить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "воловий",
+    "lemma": "вол",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "вол",
+      "-овий"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бейсбольный",
+    "lemma": "бейсбол",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бейсбол",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "аппендиксный",
+    "lemma": "аппендикс",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "аппендикс",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "лихенологический",
+    "lemma": "лихенолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "лихенолог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "мутность",
+    "lemma": "муть",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "муть",
+      "-ный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пенёк",
+    "lemma": "пень",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "пень",
+      "-ёк"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фельетонист",
+    "lemma": "фельетон",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "фельетон",
+      "-ист"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "заслать",
+    "lemma": "слать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-слать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пупок",
+    "lemma": "пуп",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "пуп",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "значок",
+    "lemma": "знак",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "знак",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гельминтология",
+    "lemma": "гельминтолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "гельминтолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "абиссальный",
+    "lemma": "абиссаль",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "абиссаль",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "набрать",
+    "lemma": "брать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "на",
+      "-брать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "шумный",
+    "lemma": "шум",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "шум",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "дорвать",
+    "lemma": "рвать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "до",
+      "-рвать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "экстравагантность",
+    "lemma": "экстравагантный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "экстравагантный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "извлечь",
+    "lemma": "влечь",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "из",
+      "-влечь"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "смыться",
+    "lemma": "мыть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "с",
+      "-мыть",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "холерический",
+    "lemma": "холера",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "холера",
+      "-ик",
+      "-еский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "финиковый",
+    "lemma": "финик",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "финик",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сдаться",
+    "lemma": "дать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "с",
+      "-дать",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "судить",
+    "lemma": "суд",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "суд",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "форматный",
+    "lemma": "формат",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "формат",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "завыть",
+    "lemma": "выть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-выть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "эозинофильный",
+    "lemma": "эозинофил",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "эозинофил",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "балетный",
+    "lemma": "балет",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "балет",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "смартфонный",
+    "lemma": "смартфон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "смартфон",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "космологический",
+    "lemma": "космолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "космолог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "творительный",
+    "lemma": "творить",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "творить",
+      "-тельный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "зонтик",
+    "lemma": "зонт",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "зонт",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ястребок",
+    "lemma": "ястреб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ястреб",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "навязнуть",
+    "lemma": "вязнуть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "на",
+      "-вязнуть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "диагностический",
+    "lemma": "диагностика",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "диагностика",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ядерный",
+    "lemma": "ядро",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ядро",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "заливка",
+    "lemma": "залив",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "залив",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "проткнуть",
+    "lemma": "ткнуть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "про",
+      "-ткнуть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "магазинный",
+    "lemma": "магазин",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "магазин",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сынок",
+    "lemma": "сын",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "сын",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "побить",
+    "lemma": "бить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-бить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "мастерский",
+    "lemma": "мастер",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "мастер",
+      "-ство",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "экзаменовка",
+    "lemma": "экзамен",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "экзамен",
+      "-овка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бездетность",
+    "lemma": "бездетный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "бездетный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ресторанчик",
+    "lemma": "ресторан",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ресторан",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "религиозность",
+    "lemma": "религиозный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "религиозный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "грубеть",
+    "lemma": "грубый",
+    "lemma_pos": "ADJ",
+    "surface_pos": "V",
+    "sub_word": [
+      "грубый",
+      "-еть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "крымский",
+    "lemma": "крым",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "крым",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бригадный",
+    "lemma": "бригада",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бригада",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вредоносный",
+    "lemma": "вредонос",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "вредонос",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "мухоморчик",
+    "lemma": "мухомор",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "мухомор",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "аистёнок",
+    "lemma": "аист",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "аист",
+      "-ёнок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "серебрение",
+    "lemma": "серебро",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "серебро",
+      "-ить",
+      "-ение"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "отжечь",
+    "lemma": "жечь",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "от",
+      "-жечь"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "каллиграфия",
+    "lemma": "каллиграф",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "каллиграф",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "актовый",
+    "lemma": "акт",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "акт",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "футболка",
+    "lemma": "футбол",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "футбол",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "неуёмность",
+    "lemma": "неуёмный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "неуёмный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "травматология",
+    "lemma": "травматолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "травматолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "хариусовый",
+    "lemma": "хариус",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "хариус",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "открывать",
+    "lemma": "крыть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "от",
+      "-крыть",
+      "-вать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пригреть",
+    "lemma": "греть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "при",
+      "-греть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бульонный",
+    "lemma": "бульон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бульон",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "идеология",
+    "lemma": "идеолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "идеолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "лодочка",
+    "lemma": "лодка",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "лодка",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "язычок",
+    "lemma": "язык",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "язык",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "грузовик",
+    "lemma": "груз",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "груз",
+      "-овой",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "нейропсихология",
+    "lemma": "нейропсихолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "нейропсихолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "круглогодично",
+    "lemma": "круглогодичный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADV",
+    "sub_word": [
+      "круглогодичный",
+      "-о"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "неофилологический",
+    "lemma": "неофилолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "неофилолог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "постричь",
+    "lemma": "стричь",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-стричь"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пилотка",
+    "lemma": "пилот",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "пилот",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гематология",
+    "lemma": "гематолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "гематолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "оологический",
+    "lemma": "оолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "оолог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "заплести",
+    "lemma": "плести",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-плести"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "филологический",
+    "lemma": "филолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "филолог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "визитёр",
+    "lemma": "визит",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "визит",
+      "-ёр"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "скрыться",
+    "lemma": "крыть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "с",
+      "-крыть",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "дружок",
+    "lemma": "друг",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "друг",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "трусить",
+    "lemma": "трус",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "трус",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ёршик",
+    "lemma": "ёрш",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ёрш",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "конина",
+    "lemma": "конь",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "конь",
+      "-ина"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "коллективистка",
+    "lemma": "коллектив",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "коллектив",
+      "-ист",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "неполиткорректность",
+    "lemma": "неполиткорректный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "неполиткорректный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "рентабельность",
+    "lemma": "рентабельный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "рентабельный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "перемолоть",
+    "lemma": "молоть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "пере",
+      "-молоть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "обманный",
+    "lemma": "обман",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "обман",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "язычница",
+    "lemma": "язык",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "язык",
+      "-ный",
+      "-ник",
+      "-ница"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "подплыть",
+    "lemma": "плыть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "под",
+      "-плыть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "финалистка",
+    "lemma": "финал",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "финал",
+      "-ист",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "хакерство",
+    "lemma": "хакер",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "хакер",
+      "-ство"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "заклевать",
+    "lemma": "клевать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-клевать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бальный",
+    "lemma": "бал",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бал",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "разостлать",
+    "lemma": "стлать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "разо",
+      "-стлать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гитарный",
+    "lemma": "гитара",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "гитара",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "инвалидный",
+    "lemma": "инвалид",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "инвалид",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "облечь",
+    "lemma": "лечь",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "об",
+      "-лечь"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "аферистка",
+    "lemma": "афера",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "афера",
+      "-ист",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "медалька",
+    "lemma": "медаль",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "медаль",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "необоснованно",
+    "lemma": "необоснованный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADV",
+    "sub_word": [
+      "необоснованный",
+      "-о"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "капиталист",
+    "lemma": "капитал",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "капитал",
+      "-ист"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "контрабасистка",
+    "lemma": "контрабас",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "контрабас",
+      "-ист",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "логарифмический",
+    "lemma": "логарифм",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "логарифм",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "возводить",
+    "lemma": "водить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "воз",
+      "-водить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гласность",
+    "lemma": "глас",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "глас",
+      "-ный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "германофильство",
+    "lemma": "германофил",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "германофил",
+      "-ство"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вечерний",
+    "lemma": "вечер",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "вечер",
+      "-ний"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "цыганология",
+    "lemma": "цыганолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "цыганолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "выбрить",
+    "lemma": "брить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "вы",
+      "-брить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "слойка",
+    "lemma": "слой",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "слой",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "рапирист",
+    "lemma": "рапира",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "рапира",
+      "-ист"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "хуёвый",
+    "lemma": "хуй",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "хуй",
+      "-ёвый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вечереть",
+    "lemma": "вечер",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "вечер",
+      "-еть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "метровый",
+    "lemma": "метр",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "метр",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фарисейство",
+    "lemma": "фарисей",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "фарисей",
+      "-ство"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "абажурный",
+    "lemma": "абажур",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "абажур",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "аэростатический",
+    "lemma": "аэростат",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "аэростат",
+      "-ный",
+      "-ика",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "неоновый",
+    "lemma": "неон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "неон",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "приспешнический",
+    "lemma": "приспешник",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "приспешник",
+      "-еский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "замёрзнуть",
+    "lemma": "мёрзнуть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-мёрзнуть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "падение",
+    "lemma": "падать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "падать",
+      "-ение"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "абрикосик",
+    "lemma": "абрикос",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "абрикос",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пружинный",
+    "lemma": "пружина",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "пружина",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "саксофонистка",
+    "lemma": "саксофон",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "саксофон",
+      "-ист",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ракетный",
+    "lemma": "ракета",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ракета",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "спорщик",
+    "lemma": "спор",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "спор",
+      "-щик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "буравчик",
+    "lemma": "бурав",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "бурав",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "палеозоологический",
+    "lemma": "палеозоолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "палеозоолог",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "целлулоидный",
+    "lemma": "целлулоид",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "целлулоид",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "водочный",
+    "lemma": "вода",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "вода",
+      "-ка",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "кинжальчик",
+    "lemma": "кинжал",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "кинжал",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "читательница",
+    "lemma": "читать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "читать",
+      "-тель",
+      "-ница"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "проводница",
+    "lemma": "провод",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "провод",
+      "-ник",
+      "-ница"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "драматургический",
+    "lemma": "драматург",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "драматург",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "одобрение",
+    "lemma": "одобрить",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "одобрить",
+      "-ение"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "огрех",
+    "lemma": "грех",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "о",
+      "-грех"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "центрист",
+    "lemma": "центр",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "центр",
+      "-ист"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "зааплодировать",
+    "lemma": "аплодировать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-аплодировать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сердечко",
+    "lemma": "сердце",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "сердце",
+      "-ко"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "носик",
+    "lemma": "нос",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "нос",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "саамка",
+    "lemma": "саам",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "саам",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "тренажёрный",
+    "lemma": "тренаж",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "тренаж",
+      "-ёр",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "клювик",
+    "lemma": "клюв",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "клюв",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "югославка",
+    "lemma": "югослав",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "югослав",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "антидемократический",
+    "lemma": "антидемократ",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "антидемократ",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "дышаться",
+    "lemma": "дышать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "дышать",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "суррогатный",
+    "lemma": "суррогат",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "суррогат",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "подбородочный",
+    "lemma": "подбородок",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "подбородок",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "необходимость",
+    "lemma": "необходимый",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "необходимый",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фактурный",
+    "lemma": "фактура",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "фактура",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "эспадронный",
+    "lemma": "эспадрон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "эспадрон",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "перепеть",
+    "lemma": "петь",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "пере",
+      "-петь"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "коллажный",
+    "lemma": "коллаж",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "коллаж",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "жестокость",
+    "lemma": "жестокий",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "жестокий",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фашистский",
+    "lemma": "фашист",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "фашист",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фанфарист",
+    "lemma": "фанфара",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "фанфара",
+      "-ист"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "определённость",
+    "lemma": "определённый",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "определённый",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "амплитудный",
+    "lemma": "амплитуда",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "амплитуда",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "трамвайчик",
+    "lemma": "трамвай",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "трамвай",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "автогенный",
+    "lemma": "автоген",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "автоген",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "монтёр",
+    "lemma": "монтировать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "монтировать",
+      "-ёр"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "топтать",
+    "lemma": "топот",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "топот",
+      "-ать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "клубный",
+    "lemma": "клуб",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "клуб",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "корреспондентский",
+    "lemma": "корреспондент",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "корреспондент",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "выжечь",
+    "lemma": "жечь",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "вы",
+      "-жечь"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вздёргиваться",
+    "lemma": "дёрнуть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "вз",
+      "-дёрнуть",
+      "-ивать",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "хищница",
+    "lemma": "хитить",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "хитить",
+      "-ный",
+      "-ник",
+      "-ница"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "лесорубный",
+    "lemma": "лесоруб",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "лесоруб",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гардеробщица",
+    "lemma": "гардероб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "гардероб",
+      "-щик",
+      "-ица"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "альбиноска",
+    "lemma": "альбинос",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "альбинос",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гонорарный",
+    "lemma": "гонорар",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "гонорар",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "якорный",
+    "lemma": "якорь",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "якорь",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "музейный",
+    "lemma": "музей",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "музей",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "хамелеонский",
+    "lemma": "хамелеон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "хамелеон",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "макиавеллистический",
+    "lemma": "макиавеллист",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "макиавеллист",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "черносотенец",
+    "lemma": "черносотенный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "черносотенный",
+      "-ец"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фонтанный",
+    "lemma": "фонтан",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "фонтан",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "колумбийский",
+    "lemma": "колумбиец",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "колумбиец",
+      "-ка",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "юкагирка",
+    "lemma": "юкагир",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "юкагир",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "карантинный",
+    "lemma": "карантин",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "карантин",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "жирок",
+    "lemma": "жир",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "жир",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "кукурузник",
+    "lemma": "кукуруза",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "кукуруза",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "манёвренность",
+    "lemma": "манёвр",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "манёвр",
+      "-енный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "экспериментировать",
+    "lemma": "эксперимент",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "эксперимент",
+      "-ировать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фигурка",
+    "lemma": "фигура",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "фигура",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "телефонировать",
+    "lemma": "телефон",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "телефон",
+      "-ировать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ротик",
+    "lemma": "рот",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "рот",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бытность",
+    "lemma": "быть",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "быть",
+      "-ность"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "малинник",
+    "lemma": "малина",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "малина",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "аэростатный",
+    "lemma": "аэростат",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "аэростат",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "железный",
+    "lemma": "железо",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "железо",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "посредничество",
+    "lemma": "посредник",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "посредник",
+      "-ество"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сантиметровый",
+    "lemma": "сантиметр",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "сантиметр",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "диалектный",
+    "lemma": "диалект",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "диалект",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "белка",
+    "lemma": "белый",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "белый",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "архиерейский",
+    "lemma": "архиерей",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "архиерей",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "винный",
+    "lemma": "вино",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "вино",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бровный",
+    "lemma": "бровь",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бровь",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ромбик",
+    "lemma": "ромб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ромб",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "крестьянский",
+    "lemma": "крестьянин",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "крестьянин",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "посреднический",
+    "lemma": "посредник",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "посредник",
+      "-еский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "хозрасчётный",
+    "lemma": "хозрасчёт",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "хозрасчёт",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "значение",
+    "lemma": "знак",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "знак",
+      "-ить",
+      "-ение"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фелинологический",
+    "lemma": "фелинолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "фелинолог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "муссонный",
+    "lemma": "муссон",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "муссон",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "футболистка",
+    "lemma": "футбол",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "футбол",
+      "-ист",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "скорбный",
+    "lemma": "скорбь",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "скорбь",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "присесть",
+    "lemma": "сесть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "при",
+      "-сесть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фаготистка",
+    "lemma": "фагот",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "фагот",
+      "-ист",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сдавать",
+    "lemma": "дать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "с",
+      "-дать",
+      "-вать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сугробистый",
+    "lemma": "сугроб",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "сугроб",
+      "-истый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ремонтный",
+    "lemma": "ремонт",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ремонт",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "лубок",
+    "lemma": "луб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "луб",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ускориться",
+    "lemma": "ускорить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ускорить",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "льготный",
+    "lemma": "льгота",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "льгота",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "выстрелить",
+    "lemma": "выстрел",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "выстрел",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "методический",
+    "lemma": "методика",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "методика",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сходить",
+    "lemma": "ход",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "с",
+      "-ход",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "разъяснительный",
+    "lemma": "разъяснить",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "разъяснить",
+      "-тельный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "энцефалитный",
+    "lemma": "энцефалит",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "энцефалит",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фаршировка",
+    "lemma": "фарш",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "фарш",
+      "-ировать",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "полдень",
+    "lemma": "день",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "пол",
+      "-день"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "электроэнцефалография",
+    "lemma": "электроэнцефалограф",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "электроэнцефалограф",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "семянка",
+    "lemma": "семя",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "семя",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "мужик",
+    "lemma": "муж",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "муж",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "мёрзлый",
+    "lemma": "мёрзнуть",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "мёрзнуть",
+      "-лый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "именительный",
+    "lemma": "имя",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "имя",
+      "-тельный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "иволговый",
+    "lemma": "иволга",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "иволга",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "климатология",
+    "lemma": "климатолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "климатолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "локомотивный",
+    "lemma": "локомотив",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "локомотив",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "электрометрист",
+    "lemma": "электрометр",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "электрометр",
+      "-ия",
+      "-ист"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "толковать",
+    "lemma": "толк",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "толк",
+      "-овать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "тореадорский",
+    "lemma": "тореадор",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "тореадор",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "умный",
+    "lemma": "ум",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ум",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "отфильтровать",
+    "lemma": "фильтр",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "от",
+      "-фильтр",
+      "-овать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "спасский",
+    "lemma": "спас",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "спас",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "учитель",
+    "lemma": "учить",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "учить",
+      "-тель"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "товарищеский",
+    "lemma": "товарищ",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "товарищ",
+      "-еский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "чубчик",
+    "lemma": "чуб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "чуб",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "грешница",
+    "lemma": "грех",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "грех",
+      "-ить",
+      "-ный",
+      "-ица"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "выслать",
+    "lemma": "слать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "вы",
+      "-слать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "планетологический",
+    "lemma": "планетолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "планетолог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "нашлёпать",
+    "lemma": "шлёпать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "на",
+      "-шлёпать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "дубина",
+    "lemma": "дуб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "дуб",
+      "-ина"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "преемница",
+    "lemma": "преемник",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "преемник",
+      "-ница"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "хлебец",
+    "lemma": "хлеб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "хлеб",
+      "-ец"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "оклеветать",
+    "lemma": "клевета",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "о",
+      "-клевета",
+      "-ать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "исполнение",
+    "lemma": "исполнить",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "исполнить",
+      "-ение"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "эллипсисный",
+    "lemma": "эллипсис",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "эллипсис",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "согласный",
+    "lemma": "согласие",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "согласие",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "регулировщик",
+    "lemma": "регулировать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "регулировать",
+      "-щик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "никелевый",
+    "lemma": "никель",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "никель",
+      "-евый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "цилиндрический",
+    "lemma": "цилиндр",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "цилиндр",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "водица",
+    "lemma": "вода",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "вода",
+      "-ица"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ножка",
+    "lemma": "нога",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "нога",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фотометрический",
+    "lemma": "фотометр",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "фотометр",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "дорожный",
+    "lemma": "дорога",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "дорога",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "восхитительный",
+    "lemma": "восхитить",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "восхитить",
+      "-тельный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "дефектоскопия",
+    "lemma": "дефектоскоп",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "дефектоскоп",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "морозить",
+    "lemma": "мороз",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "мороз",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "галочка",
+    "lemma": "галка",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "галка",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "сардинный",
+    "lemma": "сардина",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "сардина",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "полубог",
+    "lemma": "бог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "полу",
+      "-бог"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "плевок",
+    "lemma": "плевать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "плевать",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "беркутёнок",
+    "lemma": "беркут",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "беркут",
+      "-ёнок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "стаканчик",
+    "lemma": "стакан",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "стакан",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "палинологический",
+    "lemma": "палинолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "палинолог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "попович",
+    "lemma": "поп",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "поп",
+      "-ович"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "турнирный",
+    "lemma": "турнир",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "турнир",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "кофейный",
+    "lemma": "кофе",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "кофе",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "графиня",
+    "lemma": "граф",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "граф",
+      "-иня"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фюзеляжный",
+    "lemma": "фюзеляж",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "фюзеляж",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "юбочка",
+    "lemma": "юбка",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "юбка",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "задремать",
+    "lemma": "дремать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-дремать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "эластичность",
+    "lemma": "эластичный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "эластичный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "почтальонша",
+    "lemma": "почтальон",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "почтальон",
+      "-ша"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "пиратский",
+    "lemma": "пират",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "пират",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ладить",
+    "lemma": "лад",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "лад",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фотография",
+    "lemma": "фотограф",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "фотограф",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "опоздание",
+    "lemma": "опоздать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "опоздать",
+      "-ание"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "нитяный",
+    "lemma": "нить",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "нить",
+      "-яный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "улейный",
+    "lemma": "улей",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "улей",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "жевание",
+    "lemma": "жевать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "жевать",
+      "-ание"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "юдофобка",
+    "lemma": "юдофоб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "юдофоб",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вкопать",
+    "lemma": "копать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "в",
+      "-копать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "индусский",
+    "lemma": "индус",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "индус",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "славистский",
+    "lemma": "славист",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "славист",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "кинжальщик",
+    "lemma": "кинжал",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "кинжал",
+      "-щик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "намалевать",
+    "lemma": "малевать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "на",
+      "-малевать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "жительский",
+    "lemma": "жить",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "жить",
+      "-тель",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "безбожный",
+    "lemma": "безбожие",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "безбожие",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "освещённость",
+    "lemma": "освещённый",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "освещённый",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "градина",
+    "lemma": "град",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "град",
+      "-ина"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "агротехнический",
+    "lemma": "агротехника",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "агротехника",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "орнитологический",
+    "lemma": "орнитолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "орнитолог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "машинально",
+    "lemma": "машина",
+    "lemma_pos": "N",
+    "surface_pos": "ADV",
+    "sub_word": [
+      "машина",
+      "-альный",
+      "-о"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "распутство",
+    "lemma": "распутный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "распутный",
+      "-ство"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "футлярчик",
+    "lemma": "футляр",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "футляр",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "абразивность",
+    "lemma": "абразив",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "абразив",
+      "-ный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "резонансный",
+    "lemma": "резонанс",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "резонанс",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "спешка",
+    "lemma": "спешить",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "спешить",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "подбежать",
+    "lemma": "бежать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "под",
+      "-бежать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "зимовать",
+    "lemma": "зима",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "зима",
+      "-овать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "националистка",
+    "lemma": "националист",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "националист",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "прогнуть",
+    "lemma": "гнуть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "про",
+      "-гнуть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "вытьё",
+    "lemma": "выть",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "выть",
+      "-тьё"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "попытаться",
+    "lemma": "пытать",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-пытать",
+      "-ся"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "майорский",
+    "lemma": "майор",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "майор",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "хохотать",
+    "lemma": "хохот",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "хохот",
+      "-ать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бродить",
+    "lemma": "брод",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "брод",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "аллопатический",
+    "lemma": "аллопат",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "аллопат",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "травка",
+    "lemma": "трава",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "трава",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "кларнетистка",
+    "lemma": "кларнет",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "кларнет",
+      "-ист",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "подвальчик",
+    "lemma": "подвал",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "подвал",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "электрооптический",
+    "lemma": "электрооптика",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "электрооптика",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "алгебраист",
+    "lemma": "алгебра",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "алгебра",
+      "-ист"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "продолжение",
+    "lemma": "продолжить",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "продолжить",
+      "-ение"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "незащищённость",
+    "lemma": "защищённый",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "не",
+      "-защищённый",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "грузить",
+    "lemma": "груз",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "груз",
+      "-ить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "осторожность",
+    "lemma": "осторожный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "осторожный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "архитекторский",
+    "lemma": "архитектор",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "архитектор",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "крышка",
+    "lemma": "крыша",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "крыша",
+      "-ка"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "закром",
+    "lemma": "кром",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "за",
+      "-кром"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "анекдотический",
+    "lemma": "анекдот",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "анекдот",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "упругость",
+    "lemma": "упругий",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "упругий",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "эктодермальный",
+    "lemma": "эктодерма",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "эктодерма",
+      "-альный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фотографический",
+    "lemma": "фотограф",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "фотограф",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "грузовичок",
+    "lemma": "груз",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "груз",
+      "-овой",
+      "-ик",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фонологический",
+    "lemma": "фонолог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "фонолог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "еретический",
+    "lemma": "еретик",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "еретик",
+      "-еский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "тигровый",
+    "lemma": "тигр",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "тигр",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "автобусный",
+    "lemma": "автобус",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "автобус",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фитопатология",
+    "lemma": "фитопатолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "фитопатолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "оркестровый",
+    "lemma": "оркестр",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "оркестр",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "задумать",
+    "lemma": "дума",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "за",
+      "-дума",
+      "-ать"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "водоёмчик",
+    "lemma": "водоём",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "водоём",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "погребок",
+    "lemma": "погреб",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "погреб",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гроздный",
+    "lemma": "гроздь",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "гроздь",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "отшельнический",
+    "lemma": "отшельник",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "отшельник",
+      "-еский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бархатистый",
+    "lemma": "бархат",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бархат",
+      "-истый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "перевезти",
+    "lemma": "везти",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "пере",
+      "-везти"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "силикатный",
+    "lemma": "силикат",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "силикат",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "междометный",
+    "lemma": "междометие",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "междометие",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "помять",
+    "lemma": "мять",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-мять"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "восьмиугольник",
+    "lemma": "восьмиугольный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "восьмиугольный",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "заводчик",
+    "lemma": "завод",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "завод",
+      "-чик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "побудить",
+    "lemma": "будить",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "по",
+      "-будить"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "скотница",
+    "lemma": "скот",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "скот",
+      "-ница"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бактериология",
+    "lemma": "бактериолог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "бактериолог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "абсолютист",
+    "lemma": "абсолют",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "абсолют",
+      "-ист"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "прозрение",
+    "lemma": "зреть",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "про",
+      "-зреть",
+      "-ение"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "содрать",
+    "lemma": "драть",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "со",
+      "-драть"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "клеветник",
+    "lemma": "клевета",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "клевета",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "садовый",
+    "lemma": "сад",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "сад",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "верблюжий",
+    "lemma": "верблюд",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "верблюд",
+      "-ий"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "карьеристский",
+    "lemma": "карьера",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "карьера",
+      "-ист",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "примерный",
+    "lemma": "пример",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "пример",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "человечность",
+    "lemma": "человек",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "человек",
+      "-ный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "ажурный",
+    "lemma": "ажур",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ажур",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "украинский",
+    "lemma": "украина",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "украина",
+      "-ец",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "хвалёный",
+    "lemma": "хвала",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "хвала",
+      "-ить",
+      "-ёный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "безобразный",
+    "lemma": "безобразие",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "безобразие",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "агитация",
+    "lemma": "агитировать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "агитировать",
+      "-ация"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "жужжание",
+    "lemma": "жужжать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "жужжать",
+      "-ание"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "антропология",
+    "lemma": "антрополог",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "антрополог",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "минетик",
+    "lemma": "минет",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "минет",
+      "-ик"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бронзовый",
+    "lemma": "бронза",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бронза",
+      "-овый"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "росток",
+    "lemma": "рост",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "рост",
+      "-ок"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фармакологический",
+    "lemma": "фармаколог",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "фармаколог",
+      "-ия",
+      "-ический"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бермудский",
+    "lemma": "бермудец",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бермудец",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "битьё",
+    "lemma": "бить",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "бить",
+      "-тьё"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "суеверный",
+    "lemma": "суеверие",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "суеверие",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "гортанный",
+    "lemma": "гортань",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "гортань",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "галстучный",
+    "lemma": "галстук",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "галстук",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "славянский",
+    "lemma": "славянин",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "славянин",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "срач",
+    "lemma": "срать",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "срать",
+      "-ач"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "кратный",
+    "lemma": "крат",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "крат",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "бензинный",
+    "lemma": "бензин",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "бензин",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "фактория",
+    "lemma": "фактор",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "фактор",
+      "-ия"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "туберкулёзный",
+    "lemma": "туберкулёз",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "туберкулёз",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "плоскость",
+    "lemma": "плоский",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "плоский",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "каптёр",
+    "lemma": "каптенармус",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "каптенармус",
+      "-ёр"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "стабильность",
+    "lemma": "стабильный",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "стабильный",
+      "-ость"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "мотоциклист",
+    "lemma": "мотоцикл",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "мотоцикл",
+      "-ист"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "анионный",
+    "lemma": "анион",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "анион",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "лейтенантский",
+    "lemma": "лейтенант",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "лейтенант",
+      "-ский"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "виноградник",
+    "lemma": "виноград",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "виноград",
+      "-ник"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "азимутный",
+    "lemma": "азимут",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "азимут",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "длинный",
+    "lemma": "длина",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "длина",
+      "-ный"
+    ],
+    "word_class": "010"
+  },
+  {
+    "surface_word": "саундтрековый",
+    "lemma": "саундтрек",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "саундтрек",
+      "-овый"
+    ],
+    "word_class": "010"
+  }
+]

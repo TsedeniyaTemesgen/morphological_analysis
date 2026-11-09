@@ -1,0 +1,9917 @@
+[
+  {
+    "surface_word": "fo-shaothair",
+    "lemma": "saothair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fo",
+      "saothair"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-dheas",
+    "lemma": "deas",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "deas"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-thoil",
+    "lemma": "toil",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "toil"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dlùth-fheachd",
+    "lemma": "feachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dlùth",
+      "feachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dlùth"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-thagradh",
+    "lemma": "tagradh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "tagradh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "sgriosail",
+    "lemma": "sgrios",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "sgrios",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "ciallach",
+    "lemma": "ciall",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ciall",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-dhealbhaich",
+    "lemma": "dealbh",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "dealbh",
+      "ich"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "ainneartair",
+    "lemma": "neart",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "neart",
+      "air"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "neo-aoibhneas",
+    "lemma": "aoibhinn",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "neo",
+      "aoibhinn"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fiosaiche",
+    "lemma": "fios",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fios",
+      "iche"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "iche"
+    ]
+  },
+  {
+    "surface_word": "meuran",
+    "lemma": "meur",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "meur",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "eunlann",
+    "lemma": "eun",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eun",
+      "lann"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "lann"
+    ]
+  },
+  {
+    "surface_word": "an-chreideamh",
+    "lemma": "creideamh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "creideamh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "cosgail",
+    "lemma": "cosg",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "cosg",
+      "ail"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "siùrsachd",
+    "lemma": "siùrsach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "siùrsach",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "fo-cheannard",
+    "lemma": "ceannard",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fo",
+      "ceannard"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "meallan",
+    "lemma": "meall",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "meall",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "roi-riochdair",
+    "lemma": "riochdair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ro",
+      "riochdair"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ro"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eas-aontachadh",
+    "lemma": "aontachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eas",
+      "aontachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chàirdeil",
+    "lemma": "càirdeil",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "càirdeil"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eas-urramaich",
+    "lemma": "urram",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "eas",
+      "urram"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "eas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "duilleachan",
+    "lemma": "duille",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "duille",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "frith-eagalach",
+    "lemma": "frith-eagal",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "frith-eagal",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "neo-eisimeileach",
+    "lemma": "eisimeileach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "neo",
+      "eisimeileach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-ghin",
+    "lemma": "gin",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "gin"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "frangach",
+    "lemma": "fraing",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fraing",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "eu-cèillidh",
+    "lemma": "cèillidh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "eu",
+      "cèillidh"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "eu"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "onorach",
+    "lemma": "onoir",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "onoir",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "clèireachail",
+    "lemma": "clèireach",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "clèireach",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "mì-thruacanta",
+    "lemma": "truacanta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "truacanta"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "boghadaireachd",
+    "lemma": "boghadair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "boghadair",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "cuidiche",
+    "lemma": "cuidich",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "cuidich",
+      "iche"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "iche"
+    ]
+  },
+  {
+    "surface_word": "anmhannaich",
+    "lemma": "anmhann",
+    "lemma_pos": "ADJ",
+    "surface_pos": "V",
+    "sub_word": [
+      "anmhann",
+      "ich"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "ath-chuir",
+    "lemma": "cuir",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "cuir"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "iar-mhìr",
+    "lemma": "mìr",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "iar",
+      "mìr"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "iar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fear-seòlaidh",
+    "lemma": "seòladh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fear",
+      "seòladh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fear"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-ghnàthaich",
+    "lemma": "gnàthaich",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "mì",
+      "gnàthaich"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "biorach",
+    "lemma": "bior",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "bior",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "beusachd",
+    "lemma": "beus",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "beus",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "ath-cheannsaich",
+    "lemma": "ceannsaich",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "ceannsaich"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-bhuidheachas",
+    "lemma": "buidheachas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "buidheachas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chùramach",
+    "lemma": "cùram",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "cùram"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-ràdh",
+    "lemma": "ràdh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eadar",
+      "ràdh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-bhuaireasach",
+    "lemma": "buaireas",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "buaireas",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "eadar-sholas",
+    "lemma": "solas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eadar",
+      "solas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-dhùblachadh",
+    "lemma": "dùblachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "dùblachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chreideamh",
+    "lemma": "creideamh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "creideamh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-dhòigh",
+    "lemma": "dòigh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "dòigh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "danmhairgeach",
+    "lemma": "danmhairg",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "danmhairg",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "féin-àicheadh",
+    "lemma": "àicheadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fèin",
+      "àicheadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fèin"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chreid",
+    "lemma": "creid",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "mì",
+      "creid"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-thinneas-cloinne",
+    "lemma": "tinneas-cloinne",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "tinneas-cloinne"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dòrnan",
+    "lemma": "dòrn",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dòrn",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "buaireadair",
+    "lemma": "buair",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "buair",
+      "adair"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "subhailceach",
+    "lemma": "subhailc",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "subhailc",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "figearail",
+    "lemma": "figear",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "figear",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "mòrail",
+    "lemma": "mòr",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mòr",
+      "ail"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "mìlseachd",
+    "lemma": "milis",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "milis",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "aincheist",
+    "lemma": "ceist",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "ceist"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "co-ghnèitheach",
+    "lemma": "gnè",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "co",
+      "gnè"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "co"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "àmail",
+    "lemma": "àm",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "àm",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "mì-ghiùlan",
+    "lemma": "giùlan",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "giùlan"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-mhiannach",
+    "lemma": "miann",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "miann"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "gruagach",
+    "lemma": "gruag",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "gruag",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "aotrom",
+    "lemma": "trom",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ao",
+      "trom"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "ao"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "os-cheartachadh",
+    "lemma": "ceartachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "os",
+      "ceartachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "os"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "bean-eiridinn",
+    "lemma": "eiridinn",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "bean",
+      "eiridinn"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "bean"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dearbh-bhriathar",
+    "lemma": "briathair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dearbh",
+      "briathair"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dearbh"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-cheangal",
+    "lemma": "ceangal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "ceangal"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "baintighearna",
+    "lemma": "tighearna",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ban",
+      "tighearna"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ban"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chion",
+    "lemma": "cion",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "cion"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "iomlanachd",
+    "lemma": "iomlan",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "iomlan",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "ceumnaich",
+    "lemma": "ceuman",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ceuman",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "sgrìobhadair",
+    "lemma": "sgrìobh",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "sgrìobh",
+      "adair"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "postachd",
+    "lemma": "post",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "post",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "far-stuth",
+    "lemma": "stuth",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "far",
+      "stuth"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "far"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "gualan",
+    "lemma": "gual",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "gual",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "dà-aodannach",
+    "lemma": "aodann",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "aodann"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "leabharlann",
+    "lemma": "leabhar",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "leabhar",
+      "lann"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "lann"
+    ]
+  },
+  {
+    "surface_word": "eadar-shruthach",
+    "lemma": "sruth",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "eadar",
+      "sruth"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "gràisgealachd",
+    "lemma": "gràisgeil",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "gràisgeil",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "mac-meanmnach",
+    "lemma": "mac-meanmna",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mac-meanmna",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "colbhair",
+    "lemma": "colbh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "colbh",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "do-ghiùlan",
+    "lemma": "giùlain",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "do",
+      "giùlain"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "do"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "comharraich",
+    "lemma": "comharradh",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "comharradh",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "cuibheasach",
+    "lemma": "cuibheas",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "cuibheas",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "bean-shìdh",
+    "lemma": "sìdh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "bean",
+      "sìdh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "bean"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fear-cèile",
+    "lemma": "cèile",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fear",
+      "cèile"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fear"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "easbaigeach",
+    "lemma": "easbaig",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "easbaig",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-fhonnmhar",
+    "lemma": "fonn",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "fonn"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "aonaranach",
+    "lemma": "aonar",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "aonar",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "teodhachd",
+    "lemma": "teth",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "teth",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "briathrachas",
+    "lemma": "briathar",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "briathar",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "eadar-chuingeach",
+    "lemma": "cuing",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "cuing",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "neach-caidheig",
+    "lemma": "caidheag",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "neach",
+      "caidheag"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "neach"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "crudhaich",
+    "lemma": "crudha",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "crudha",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "neach-lìbhrigidh",
+    "lemma": "lìbhrigeadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "neach",
+      "lìbhrigeadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "neach"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "bioran",
+    "lemma": "bior",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "bior",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "prìomh-bhaile",
+    "lemma": "baile",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "prìomh",
+      "baile"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "prìomh"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "einnseanaireachd",
+    "lemma": "einnsean",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "einnsean",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "mì-stuama",
+    "lemma": "stuama",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "stuama"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "gàidhealtachd",
+    "lemma": "gàidheal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "gàidheal",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "oidich",
+    "lemma": "oide",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "oide",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "uile-chumhachdach",
+    "lemma": "cumhachd",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "uile",
+      "cumhachd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "uile"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ceannaiche",
+    "lemma": "ceann",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ceann",
+      "iche"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "iche"
+    ]
+  },
+  {
+    "surface_word": "ath-shealladh",
+    "lemma": "seall",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "seall"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "naomhachd",
+    "lemma": "naomh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "naomh",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "leigheasach",
+    "lemma": "leigheas",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "leigheas",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dà-phuing",
+    "lemma": "puing",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dà",
+      "puing"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-ocsaid",
+    "lemma": "ocsaid",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dà",
+      "ocsaid"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "blàthaich",
+    "lemma": "blàth",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "blàth",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "facladair",
+    "lemma": "facal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "facal",
+      "adair"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "mì-iomchaidheachd",
+    "lemma": "iomchaidh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "iomchaidh",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "ath-dhùisg",
+    "lemma": "dùisg",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "dùisg"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "leighiche",
+    "lemma": "leighis",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "leighis",
+      "iche"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "iche"
+    ]
+  },
+  {
+    "surface_word": "deuchainn-lann",
+    "lemma": "deuchainn",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "deuchainn",
+      "lann"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "lann"
+    ]
+  },
+  {
+    "surface_word": "peanasaich",
+    "lemma": "peanas",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "peanas",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "clachair",
+    "lemma": "clach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "clach",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "mì-shuaimhneach",
+    "lemma": "suaimhneach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "suaimhneach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-riaghladaireachd",
+    "lemma": "riaghladaireachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "riaghladaireachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "domhanta",
+    "lemma": "domhan",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "domhan",
+      "ta"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ta"
+    ]
+  },
+  {
+    "surface_word": "sgrìobhaiche",
+    "lemma": "sgrìobh",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "sgrìobh",
+      "iche"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "iche"
+    ]
+  },
+  {
+    "surface_word": "seaghach",
+    "lemma": "seagh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "seagh",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "fo-rèile",
+    "lemma": "rèile",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fo",
+      "rèile"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "gnìomhach",
+    "lemma": "gnìomh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "gnìomh",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "neo-iomlan",
+    "lemma": "iomlan",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "neo",
+      "iomlan"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mòr-sluagh",
+    "lemma": "sluagh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mòr",
+      "sluagh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mòr"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-sgrìobhach",
+    "lemma": "sgrìobh",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "sgrìobh",
+      "ach"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "tarbhan",
+    "lemma": "tarbh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "tarbh",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "brocair",
+    "lemma": "broc",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "broc",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "fèin-ùghdarras",
+    "lemma": "ùghdarras",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fèin",
+      "ùghdarras"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fèin"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "collaidh",
+    "lemma": "colann",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "colann",
+      "aidh"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "aidh"
+    ]
+  },
+  {
+    "surface_word": "mì-chaomhainn",
+    "lemma": "caomhainn",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "mì",
+      "caomhainn"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-theangair",
+    "lemma": "eadar-theangaich",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "eadar-theangaich",
+      "air"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "eadar-theangaichear",
+    "lemma": "eadar-theangaich",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "eadar-theangaich",
+      "ear"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ear"
+    ]
+  },
+  {
+    "surface_word": "cunntasair",
+    "lemma": "cunnt",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "cunnt",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "ainneart",
+    "lemma": "neart",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "neart"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-dhligheach",
+    "lemma": "dlighe",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "dlighe"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "nàraich",
+    "lemma": "nàr",
+    "lemma_pos": "ADJ",
+    "surface_pos": "V",
+    "sub_word": [
+      "nàr",
+      "ich"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "cuibheasachd",
+    "lemma": "cuibheas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "cuibheas",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "mì-fhurasda",
+    "lemma": "furasta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "furasta"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "caolas",
+    "lemma": "caol",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "caol",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "mì-mheirbheadh",
+    "lemma": "meirbheadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "meirbheadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-shreathach",
+    "lemma": "sreath",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "sreath"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dualchainnteach",
+    "lemma": "dualchainnt",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dualchainnt",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "modhail",
+    "lemma": "modh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "modh",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "uidheamaich",
+    "lemma": "uidheam",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "uidheam",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "ath-ghabh",
+    "lemma": "gabh",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "gabh"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "craosach",
+    "lemma": "craos",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "craos",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "eadar-phòs",
+    "lemma": "pòs",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "eadar",
+      "pòs"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "àrd-rìgh",
+    "lemma": "rìgh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "àrd",
+      "rìgh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "àrd"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "deòiridh",
+    "lemma": "deur",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "deur",
+      "idh"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "idh"
+    ]
+  },
+  {
+    "surface_word": "fèin-fhoghainteachd",
+    "lemma": "fóghainteachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fèin",
+      "fóghainteachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fèin"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-smaoinich",
+    "lemma": "smaoin",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "smaoin"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-dhèirceil",
+    "lemma": "dèirceil",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "dèirceil"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eu-dòchasachd",
+    "lemma": "dòchas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eu",
+      "dòchas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eu"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "falmadair",
+    "lemma": "failm",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "failm",
+      "adair"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "beagan",
+    "lemma": "beag",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "beag",
+      "an"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "peacaich",
+    "lemma": "peacadh",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "peacadh",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "mì-shnasail",
+    "lemma": "snas",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "snas",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "ionmhasair",
+    "lemma": "ionmhas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ionmhas",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "gnàthach",
+    "lemma": "gnàth",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "gnàth",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-bhuaidheach",
+    "lemma": "buaidh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "buaidh",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dearbh-aithne",
+    "lemma": "aithne",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dearbh",
+      "aithne"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dearbh"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "builgean",
+    "lemma": "builg",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "builg",
+      "an"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "sgòthach",
+    "lemma": "sgòth",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "sgòth",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "pìobaire",
+    "lemma": "pìob",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "pìob",
+      "aire"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "aire"
+    ]
+  },
+  {
+    "surface_word": "taitneach",
+    "lemma": "taitinn",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "taitinn",
+      "ach"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "calpachas",
+    "lemma": "calpa",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "calpa",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "còinneachail",
+    "lemma": "còinneach",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "còinneach",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "umhach",
+    "lemma": "umha",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "umha",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "triantanach",
+    "lemma": "triantan",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "triantan",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dallag",
+    "lemma": "dall",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "dall",
+      "ag"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ag"
+    ]
+  },
+  {
+    "surface_word": "càirdeach",
+    "lemma": "caraid",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "caraid",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "neulaich",
+    "lemma": "neul",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "neul",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "ath-thaisbean",
+    "lemma": "taisbean",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "taisbean"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "copach",
+    "lemma": "cop",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "cop",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "deimhinnte",
+    "lemma": "deimhinn",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "deimhinn",
+      "te"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "te"
+    ]
+  },
+  {
+    "surface_word": "frith-bhuail",
+    "lemma": "buail",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "frith",
+      "buail"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "frith"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fo-aodach",
+    "lemma": "aodach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fo",
+      "aodach"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-ghuidheach",
+    "lemma": "guidh",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "eadar",
+      "guidh"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-innealta",
+    "lemma": "innealta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "innealta"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "feumalachd",
+    "lemma": "feum",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "feum",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "eilbheiseach",
+    "lemma": "eilbheis",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eilbheis",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-fhreasdalach",
+    "lemma": "freasdal",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "freasdal"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-thuit",
+    "lemma": "tuit",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "tuit"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-ìre",
+    "lemma": "ìre",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eadar",
+      "ìre"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "streapadair",
+    "lemma": "streap",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "streap",
+      "adair"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "ain-iomad",
+    "lemma": "iomad",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "iomad"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-mheadhanaireach",
+    "lemma": "eadar-mheadhanair",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "eadar-mheadhanair",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "neo-ghluaisneachd",
+    "lemma": "gluaisneachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "neo",
+      "gluaisneachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dìlleachdanachd",
+    "lemma": "dìlleachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dìlleachd",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "puinnseanta",
+    "lemma": "puinnsean",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "puinnsean",
+      "ta"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ta"
+    ]
+  },
+  {
+    "surface_word": "eas-urram",
+    "lemma": "urram",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eas",
+      "urram"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-mhìneachadh",
+    "lemma": "mìneachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "mìneachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "tlachdmhor",
+    "lemma": "tlachd",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "tlachd",
+      "mhor"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "mhor"
+    ]
+  },
+  {
+    "surface_word": "mòr-sgèile",
+    "lemma": "sgèile",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mòr",
+      "sgèile"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mòr"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-thoillteannach",
+    "lemma": "toillteanach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "toillteanach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "clòdhadair",
+    "lemma": "clò",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "clò",
+      "adair"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "srathan",
+    "lemma": "srath",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "srath",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "damh-lann",
+    "lemma": "damh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "damh",
+      "lann"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "lann"
+    ]
+  },
+  {
+    "surface_word": "prògramair",
+    "lemma": "prògram",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "prògram",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "mì-chunntadh",
+    "lemma": "cunntadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "cunntadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "cumantachd",
+    "lemma": "cumanta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "cumanta",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "eas-ùmhlachd",
+    "lemma": "ùmhal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eas",
+      "ùmhal"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-fhonn",
+    "lemma": "fonn",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "fonn"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "bòidheach",
+    "lemma": "buaidh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "buaidh",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dìleach",
+    "lemma": "dìle",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dìle",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-ghnàthachd",
+    "lemma": "gnàthachd",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "gnàthachd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "far-ghuilbneach",
+    "lemma": "guilbneach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "far",
+      "guilbneach"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "far"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ceàrdach",
+    "lemma": "ceàrd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ceàrd",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "nòsail",
+    "lemma": "nòs",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "nòs",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "drabasdach",
+    "lemma": "drabasda",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "drabasda",
+      "ach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "neo-thruacantachd",
+    "lemma": "truacanta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "truacanta",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "mì-thuig",
+    "lemma": "tuig",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "mì",
+      "tuig"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "aibidileach",
+    "lemma": "aibidil",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "aibidil",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dlùth-chairdeil",
+    "lemma": "càirdeil",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dlùth",
+      "càirdeil"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "dlùth"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "sneachdail",
+    "lemma": "sneachda",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "sneachda",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "frith-staidhir",
+    "lemma": "staidhir",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "frith",
+      "staidhir"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "frith"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chlis",
+    "lemma": "clis",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "clis"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-thròcaireach",
+    "lemma": "tròcair",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "tròcair"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "sìolradh",
+    "lemma": "sìol",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "sìol",
+      "radh"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "radh"
+    ]
+  },
+  {
+    "surface_word": "fo-ghnìomhachas",
+    "lemma": "gnìomh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fo",
+      "gnìomh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ro-innleachd",
+    "lemma": "inneal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ro",
+      "inneal"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ro"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chòmhnard",
+    "lemma": "còmhnard",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "còmhnard"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-fhuaimneach",
+    "lemma": "fuaim",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fuaim",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "neo-chlaon",
+    "lemma": "claon",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "neo",
+      "claon"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ioma-lideach",
+    "lemma": "lide",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ioma",
+      "lide"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ioma"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "beilgeach",
+    "lemma": "beilg",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "beilg",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "bana-phrionnsa",
+    "lemma": "prionnsa",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ban",
+      "prionnsa"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ban"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-onoir",
+    "lemma": "onoir",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "onoir"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ain-teas",
+    "lemma": "teas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "teas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "grìosaich",
+    "lemma": "grìos",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "grìos",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "feargaich",
+    "lemma": "fearg",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "fearg",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "frith-bhacach",
+    "lemma": "frith-bhac",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "frith-bhac",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-fhaicill",
+    "lemma": "faiceall",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "faiceall"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mìorbhaileach",
+    "lemma": "mìorbhail",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mìorbhail",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "rèabhlaideach",
+    "lemma": "rèabhlaid",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "rèabhlaid",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "bannach",
+    "lemma": "bann",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "bann",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ifrinneach",
+    "lemma": "ifrinn",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ifrinn",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "os-fhìreachas",
+    "lemma": "fìreach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "fìreach",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "leth-bhràthair",
+    "lemma": "bràthair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "leth",
+      "bràthair"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "leth"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-laghail",
+    "lemma": "lagh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "lagh"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-ghnèitheach",
+    "lemma": "gnè",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "gnè"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ainfhiosrach",
+    "lemma": "fios",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "an",
+      "fios"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "inntinneach",
+    "lemma": "inntinn",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "inntinn",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "buidheag",
+    "lemma": "buidhe",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "buidhe",
+      "ag"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ag"
+    ]
+  },
+  {
+    "surface_word": "dà-shealladh",
+    "lemma": "seall",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dà",
+      "seall"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fèin-mhort",
+    "lemma": "mort",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fèin",
+      "mort"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fèin"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "anmhannachd",
+    "lemma": "anmhann",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "anmhann",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "mì-bhanail",
+    "lemma": "bean",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "bean"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "innleachd",
+    "lemma": "inneal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "inneal",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "ath-leasachair",
+    "lemma": "leasaich",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "leasaich",
+      "air"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "frangais",
+    "lemma": "fraing",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fraing",
+      "is"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "is"
+    ]
+  },
+  {
+    "surface_word": "fiughaireach",
+    "lemma": "fiughair",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fiughair",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-choisrig",
+    "lemma": "coisrig",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "mì",
+      "coisrig"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-mhurrachas",
+    "lemma": "murrach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "murrach"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dìlleachdach",
+    "lemma": "dìlleachd",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dìlleachd",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "einnseanair",
+    "lemma": "einnsean",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "einnsean",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "treòirich",
+    "lemma": "treòir",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "treòir",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "dìoghaltas",
+    "lemma": "dìoghail",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "dìoghail",
+      "as"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "tuiteamas",
+    "lemma": "tuiteam",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "tuiteam",
+      "as"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "gnìomhachd",
+    "lemma": "gnìomh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "gnìomh",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "neo-chinnteach",
+    "lemma": "cinnt",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "neo",
+      "cinnt"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-ghnìomhach",
+    "lemma": "gnìomh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "gnìomh"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-dhualach",
+    "lemma": "dualach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "dualach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "searmonaich",
+    "lemma": "searmon",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "searmon",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "cuimhnich",
+    "lemma": "cuimhne",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "cuimhne",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "caoimhneasach",
+    "lemma": "caoimhneas",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "caoimhneas",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "còcaireachd",
+    "lemma": "còcaire",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "còcaire",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "mì-mhisneachdail",
+    "lemma": "misneachd",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "misneachd",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "neach-eiridinn",
+    "lemma": "eiridinn",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "neach",
+      "eiridinn"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "neach"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-thàbhachd",
+    "lemma": "tàbhachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "tàbhachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "leabhar-d",
+    "lemma": "leabhar",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "leabhar",
+      "d"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "d"
+    ]
+  },
+  {
+    "surface_word": "fuineadaireachd",
+    "lemma": "fuin",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fuin",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "mì-mhodh",
+    "lemma": "modh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "modh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "breugach",
+    "lemma": "breug",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "breug",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ro-aoibhneas",
+    "lemma": "aoibhinn",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ro",
+      "aoibhinn"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ro"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "neo-stuama",
+    "lemma": "stuama",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "neo",
+      "stuama"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ban-diabhal",
+    "lemma": "diabhal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ban",
+      "diabhal"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ban"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "boireannach",
+    "lemma": "boireann",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "boireann",
+      "ach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-dhìlseachd",
+    "lemma": "dìleas",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "dìleas",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "gearran",
+    "lemma": "gearr",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "gearr",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "ainmh-eòlas",
+    "lemma": "eòlas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ainmh",
+      "eòlas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ainmh"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "camag",
+    "lemma": "cam",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "cam",
+      "ag"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ag"
+    ]
+  },
+  {
+    "surface_word": "luachmhor",
+    "lemma": "luach",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "luach",
+      "mhor"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "mhor"
+    ]
+  },
+  {
+    "surface_word": "saor-thoileach",
+    "lemma": "saor-thoil",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "saor-thoil",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "smaoinich",
+    "lemma": "smaoin",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "smaoin",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "eadar-theachdair",
+    "lemma": "teachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "teachd",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "mì-rian",
+    "lemma": "rian",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "rian"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "marbhan",
+    "lemma": "marbh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "marbh",
+      "an"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "caisgireachd",
+    "lemma": "caisgire",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "caisgire",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "àrd-mhàthair",
+    "lemma": "màthair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "àrd",
+      "màthair"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "àrd"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-riaghailteach",
+    "lemma": "riaghailteach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "riaghailteach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "luibheach",
+    "lemma": "luibh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "luibh",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-dhùrachdach",
+    "lemma": "dùrachd",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dùrachd",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "sìolmhorachd",
+    "lemma": "sìol",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "sìol",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "gobhlan",
+    "lemma": "gobhal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "gobhal",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "mì-eireachdas",
+    "lemma": "eireachdas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "eireachdas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fèin-fhoghainteach",
+    "lemma": "foghainteach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fèin",
+      "foghainteach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "fèin"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-gheanmnachd",
+    "lemma": "geanmnachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "geanmnachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "co-òrdaich",
+    "lemma": "òrdaich",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "co",
+      "òrdaich"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "co"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "faclach",
+    "lemma": "facal",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "facal",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "neo-iochdmhor",
+    "lemma": "iochd",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "neo",
+      "iochd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-rianail",
+    "lemma": "rian",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "rian"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "so-ghiùlan",
+    "lemma": "giùlain",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "so",
+      "giùlain"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "so"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mànranach",
+    "lemma": "mànran",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mànran",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ath-ghintinn",
+    "lemma": "gintinn",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "gintinn"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "gobaire",
+    "lemma": "gob",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "gob",
+      "aire"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "aire"
+    ]
+  },
+  {
+    "surface_word": "eas-chridheach",
+    "lemma": "cridhe",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "eas",
+      "cridhe"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-choisich",
+    "lemma": "cas",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "cas"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "boireanntachd",
+    "lemma": "boireannta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "boireannta",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "mì-labhrach",
+    "lemma": "labhrach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "labhrach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ainmich",
+    "lemma": "ainm",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ainm",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "mì-mheas",
+    "lemma": "meas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "meas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-thaitinn",
+    "lemma": "taitinn",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "mì",
+      "taitinn"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "seileach-lann",
+    "lemma": "seileach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "seileach",
+      "lann"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "lann"
+    ]
+  },
+  {
+    "surface_word": "fuaimneach",
+    "lemma": "fuaim",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fuaim",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "uabhasach",
+    "lemma": "uabhas",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "uabhas",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "uile-choitcheann",
+    "lemma": "coitcheann",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "uile",
+      "coitcheann"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "uile"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "òstaireachd",
+    "lemma": "òstair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "òstair",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "faobhaich",
+    "lemma": "faobh",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "faobh",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "daingnich",
+    "lemma": "daingeann",
+    "lemma_pos": "ADJ",
+    "surface_pos": "V",
+    "sub_word": [
+      "daingeann",
+      "ich"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "balgaich",
+    "lemma": "balg",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "balg",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "ban-ifrinneach",
+    "lemma": "ifrinn",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "ban",
+      "ifrinn"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "ban"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fèin-urram",
+    "lemma": "urram",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fèin",
+      "urram"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fèin"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "adharcach",
+    "lemma": "adharc",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "adharc",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "sgiathach",
+    "lemma": "sgiath",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "sgiath",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dranndanach",
+    "lemma": "dranndan",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dranndan",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ainfhiosach",
+    "lemma": "fios",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fios",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ath-leithid",
+    "lemma": "leithid",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "leithid"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "bliadhnail",
+    "lemma": "bliadhna",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "bliadhna",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "ioma-dhualchasach",
+    "lemma": "dualchas",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ioma",
+      "dualchas"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "ioma"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "brocaireachd",
+    "lemma": "broc",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "broc",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "mì-shnasalachd",
+    "lemma": "snas",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "snas",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "balachan",
+    "lemma": "balach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "balach",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "fo-bhuidhe",
+    "lemma": "buidhe",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fo",
+      "buidhe"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-shaothrachail",
+    "lemma": "saothrachail",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ath",
+      "saothrachail"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "alcolach",
+    "lemma": "alcol",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "alcol",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mìmhodh",
+    "lemma": "modh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "modh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-chuairteachadh",
+    "lemma": "cuairteachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "cuairteachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "naisgear",
+    "lemma": "naisg",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "naisg",
+      "ear"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ear"
+    ]
+  },
+  {
+    "surface_word": "ban-iompaire",
+    "lemma": "iompaire",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ban",
+      "iompaire"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ban"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-bhàigheach",
+    "lemma": "bàigh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "bàigh",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "banrigh",
+    "lemma": "rìgh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ban",
+      "rìgh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ban"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-shona",
+    "lemma": "sona",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "sona"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ain-fhiùghach",
+    "lemma": "fiùghach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "an",
+      "fiùghach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-dhuineil",
+    "lemma": "duineil",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "duineil"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-bhreithneachadh",
+    "lemma": "breithneachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "breithneachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "toiteag",
+    "lemma": "toit",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "toit",
+      "ag"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ag"
+    ]
+  },
+  {
+    "surface_word": "magnaiteach",
+    "lemma": "magnait",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "magnait",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-mhisnich",
+    "lemma": "misnich",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "mì",
+      "misnich"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-ghnàthach",
+    "lemma": "gnàth",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "gnàth"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fogharach",
+    "lemma": "foghar",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "foghar",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ath-leigeil a-steach",
+    "lemma": "leigeil a-steach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "leigeil a-steach"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "muinealach",
+    "lemma": "muineal",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "muineal",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "fèin-aithne",
+    "lemma": "aithne",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fèin",
+      "aithne"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fèin"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dreagag",
+    "lemma": "dreag",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dreag",
+      "ag"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ag"
+    ]
+  },
+  {
+    "surface_word": "aoibhneas",
+    "lemma": "aoibhinn",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "aoibhinn",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "mì-mhol",
+    "lemma": "mol",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "mì",
+      "mol"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-chleamhnas",
+    "lemma": "cleamhnas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "cleamhnas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "faclair",
+    "lemma": "facal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "facal",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "mì-choltas",
+    "lemma": "coltas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "coltas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "neach-seinn",
+    "lemma": "seinn",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "neach",
+      "seinn"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "neach"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "neo-thruacanta",
+    "lemma": "truacanta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "neo",
+      "truacanta"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-dhealbh",
+    "lemma": "dealbh",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "dealbh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "aingealag",
+    "lemma": "aingeal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "aingeal",
+      "ag"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ag"
+    ]
+  },
+  {
+    "surface_word": "mì-bhuilich",
+    "lemma": "builich",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "mì",
+      "builich"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eas-onoraich",
+    "lemma": "onoraich",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "eas",
+      "onoraich"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "eas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eiridneach",
+    "lemma": "eiridinn",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "eiridinn",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dlùth-oidhirp",
+    "lemma": "oidhirp",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dlùth",
+      "oidhirp"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dlùth"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "màldachd",
+    "lemma": "màlda",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "màlda",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "croitear",
+    "lemma": "croit",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "croit",
+      "ear"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ear"
+    ]
+  },
+  {
+    "surface_word": "maighdeannail",
+    "lemma": "maighdeann",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "maighdeann",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "neo-ghuthach",
+    "lemma": "guth",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "neo",
+      "guth"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-cheanalta",
+    "lemma": "ceanalta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "ceanalta"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-leasachadh",
+    "lemma": "leasachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "leasachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ameireaganach",
+    "lemma": "aimeireaga",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "aimeireaga",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "fo-ùir",
+    "lemma": "ùir",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fo",
+      "ùir"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-ionraic",
+    "lemma": "ionraic",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "ionraic"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "meirgeach",
+    "lemma": "meirg",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "meirg",
+      "ach"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "malairteach",
+    "lemma": "malairt",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "malairt",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dlùth-bheachd",
+    "lemma": "beachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dlùth",
+      "beachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dlùth"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-fhiughaireach",
+    "lemma": "fiughair",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "fiughair"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "milimeatair",
+    "lemma": "meatair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mili",
+      "meatair"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mili"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eas-aontaich",
+    "lemma": "aonta",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "eas",
+      "aonta"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "eas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "prìomh-àros",
+    "lemma": "àros",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "prìomh",
+      "àros"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "prìomh"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fo-bhaile",
+    "lemma": "baile",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fo",
+      "baile"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fo-dhearg",
+    "lemma": "dearg",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fo",
+      "dearg"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-reusanta",
+    "lemma": "reusanta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "reusanta"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "frith-sheirbhiseach",
+    "lemma": "seirbheis",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "frith",
+      "seirbheis"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "frith"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "leas-ainm",
+    "lemma": "ainm",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "leas",
+      "ainm"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "leas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eas-creideamh",
+    "lemma": "creideamh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eas",
+      "creideamh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "neach-tadhail",
+    "lemma": "tadhail",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "neach",
+      "tadhail"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "neach"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fear-seinn",
+    "lemma": "seinn",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "fear",
+      "seinn"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "fear"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "frith-eileanach",
+    "lemma": "frith-eilean",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "frith-eilean",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ceàrnagach",
+    "lemma": "ceàrnag",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ceàrnag",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "co-fhaclair",
+    "lemma": "facal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "co",
+      "facal"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "co"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dlùth-bhaile",
+    "lemma": "baile",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dlùth",
+      "baile"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dlùth"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "duilleagach",
+    "lemma": "duille",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "duille",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-chalma",
+    "lemma": "calma",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "calma"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-uasal",
+    "lemma": "uasal",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "uasal"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "àrd-ollamh",
+    "lemma": "ollamh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "àrd",
+      "ollamh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "àrd"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-bhrod",
+    "lemma": "brod",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "brod"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-thaicealachd",
+    "lemma": "taiceil",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "taiceil",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "drùisealachd",
+    "lemma": "drùiseil",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "drùiseil",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "snàigean",
+    "lemma": "snàig",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "snàig",
+      "an"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "fasanta",
+    "lemma": "fasan",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fasan",
+      "ta"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ta"
+    ]
+  },
+  {
+    "surface_word": "ro-analachadh",
+    "lemma": "analachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ro",
+      "analachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ro"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "maighdeannas",
+    "lemma": "maighdeann",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "maighdeann",
+      "as"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "mì-bhail",
+    "lemma": "bail",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "bail"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "nàrach",
+    "lemma": "nàr",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "nàr",
+      "ach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ath-chruthaich",
+    "lemma": "cruth",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "cruth"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "beach-lann",
+    "lemma": "beach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "beach",
+      "lann"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "lann"
+    ]
+  },
+  {
+    "surface_word": "annag",
+    "lemma": "anna",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "anna",
+      "ag"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ag"
+    ]
+  },
+  {
+    "surface_word": "naoidheanta",
+    "lemma": "naoidhean",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "naoidhean",
+      "ta"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ta"
+    ]
+  },
+  {
+    "surface_word": "naidheachd",
+    "lemma": "nuadh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "nuadh",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "urramaich",
+    "lemma": "urram",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "urram",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "ath-phàidheadh",
+    "lemma": "pàigheadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "pàigheadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "deisciobalachd",
+    "lemma": "deisciobal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "deisciobal",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "bean-chràbhaidh",
+    "lemma": "cràbhadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "bean",
+      "cràbhadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "bean"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chuimhne",
+    "lemma": "cuimhne",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "cuimhne"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-fhillt",
+    "lemma": "fillte",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "dà",
+      "fillte"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "miannach",
+    "lemma": "miann",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "miann",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "murrachas",
+    "lemma": "murrach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "murrach",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "làireach",
+    "lemma": "làir",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "làir",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ath-fhilleadh",
+    "lemma": "filleadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "filleadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "seaghail",
+    "lemma": "seagh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "seagh",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "cinnteach",
+    "lemma": "cinnt",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "cinnt",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "tachair",
+    "lemma": "car",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "to",
+      "car"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "to"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dealbhadair",
+    "lemma": "dealbh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dealbh",
+      "adair"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "ana-cothrom",
+    "lemma": "trom",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "trom"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "bith-eòlas",
+    "lemma": "eòlas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "bith",
+      "eòlas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "bith"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "beò-ghlacail",
+    "lemma": "beò-ghlac",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "beò-ghlac",
+      "ail"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "frasach",
+    "lemma": "fras",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fras",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "iol-ghnèitheach",
+    "lemma": "gnè",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "iol",
+      "gnè"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "iol"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-àm",
+    "lemma": "àm",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eadar",
+      "àm"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mothachail",
+    "lemma": "mothaich",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mothaich",
+      "ail"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "ana-cùram",
+    "lemma": "cùram",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "cùram"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-èisdeachd",
+    "lemma": "èisdeachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "èisdeachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-neartachail",
+    "lemma": "neartaich",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "neartaich",
+      "ail"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "ath-bhriathrachas",
+    "lemma": "briathar",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "briathar",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "frith-bharail",
+    "lemma": "barail",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "frith",
+      "barail"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "frith"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-bheathachas",
+    "lemma": "beatha",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "beatha",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "àireamhair",
+    "lemma": "àireamh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "àireamh",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "seinneadair",
+    "lemma": "seinn",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "seinn",
+      "adair"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "ainbheus",
+    "lemma": "beus",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "beus"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "do-dhèanta",
+    "lemma": "dèanta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "do",
+      "dèanta"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "do"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "co-theacsa",
+    "lemma": "teacsa",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "co",
+      "teacsa"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "co"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-bheusach",
+    "lemma": "beus",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "beus"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-dheòin",
+    "lemma": "deòin",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "deòin"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "sgrìoban",
+    "lemma": "sgrìob",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "sgrìob",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "eas-urramach",
+    "lemma": "urram",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "urram",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "faiceallach",
+    "lemma": "faiceall",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "faiceall",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "eadar-eisimealachd",
+    "lemma": "eisimeileachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eadar",
+      "eisimeileachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-phunc",
+    "lemma": "punc",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dà",
+      "punc"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ioma-ghlac",
+    "lemma": "glac",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ioma",
+      "glac"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ioma"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-bhuaidh",
+    "lemma": "buaidh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "buaidh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-ùineach",
+    "lemma": "ùine",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ùine",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-shealbh",
+    "lemma": "sealbh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "sealbh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "cabhagach",
+    "lemma": "cabhag",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "cabhag",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "comh-shnìomh",
+    "lemma": "snìomh",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "co",
+      "snìomh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "co"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-earbsach",
+    "lemma": "earbsa",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "earbsa",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "cliùiteach",
+    "lemma": "cliù",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "cliù",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ath-bheachdaich",
+    "lemma": "beachd",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "beachd",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "dligheach",
+    "lemma": "dlighe",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dlighe",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "sgrathail",
+    "lemma": "sgrath",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "sgrath",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "fear-deasachaidh",
+    "lemma": "deasachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fear",
+      "deasachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fear"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "lorgair",
+    "lemma": "lorg",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "lorg",
+      "air"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "os-nàdarrach",
+    "lemma": "nàdar",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "os",
+      "nàdar"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "os"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "gnìomhair",
+    "lemma": "gnìomh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "gnìomh",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "iar-bhan-ogha",
+    "lemma": "ogha",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "iar",
+      "ogha"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "iar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-sgap",
+    "lemma": "sgap",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "eadar",
+      "sgap"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ioma-chànaineach",
+    "lemma": "cànain",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ioma",
+      "cànain"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ioma"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "beachair",
+    "lemma": "beach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "beach",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "eas-onoir",
+    "lemma": "onoir",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eas",
+      "onoir"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-bhunailteach",
+    "lemma": "bunailteach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "bunailteach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "taistealaiche",
+    "lemma": "taisteal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "taisteal",
+      "iche"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "iche"
+    ]
+  },
+  {
+    "surface_word": "brùidealachd",
+    "lemma": "brùideil",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "brùideil",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "freasdalach",
+    "lemma": "freasdal",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "freasdal",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "co-naisg",
+    "lemma": "naisg",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "co",
+      "naisg"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "co"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-thàbhachdach",
+    "lemma": "tàbhachdach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "tàbhachdach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ain-mhisneachd",
+    "lemma": "misneachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "misneachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "onarach",
+    "lemma": "onair",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "onair",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "crùban",
+    "lemma": "crùb",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "crùb",
+      "an"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "cleasaiche",
+    "lemma": "cleas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "cleas",
+      "iche"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "iche"
+    ]
+  },
+  {
+    "surface_word": "bocan",
+    "lemma": "boc",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "boc",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "prìomh-eaglais",
+    "lemma": "eaglais",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "prìomh",
+      "eaglais"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "prìomh"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-obrachadh",
+    "lemma": "obrachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eadar",
+      "obrachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "leas-mhac",
+    "lemma": "mac",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "leas",
+      "mac"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "leas"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "cumhachdach",
+    "lemma": "cumhachd",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "cumhachd",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "albannach",
+    "lemma": "alba",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "alba",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "sguabadair",
+    "lemma": "sguab",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "sguab",
+      "adair"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "ceòthach",
+    "lemma": "ceò",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ceò",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "sgreamhaich",
+    "lemma": "sgreamh",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "sgreamh",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "dà-dhadamach",
+    "lemma": "dadam",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dadam",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ioma-shlighe",
+    "lemma": "slighe",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ioma",
+      "slighe"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ioma"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "do-dhealachaidh",
+    "lemma": "dealachadh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "do",
+      "dealachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "do"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fo-sgrìobh",
+    "lemma": "sgrìobh",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "fo",
+      "sgrìobh"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "deudair",
+    "lemma": "deud",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "deud",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "aoigheachd",
+    "lemma": "aoigh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "aoigh",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "fear-crathaidh",
+    "lemma": "crathadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fear",
+      "crathadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fear"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-fhaiceallach",
+    "lemma": "faiceall",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "faiceall"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "frith-sheòmar",
+    "lemma": "seòmar",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "frith",
+      "seòmar"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "frith"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-bhualadh",
+    "lemma": "bualadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "bualadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "sealladh",
+    "lemma": "seall",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "seall",
+      "adh"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "adh"
+    ]
+  },
+  {
+    "surface_word": "adhartach",
+    "lemma": "adhart",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "adhart",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "eadar-aghaidh",
+    "lemma": "aghaidh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eadar",
+      "aghaidh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-sheallach",
+    "lemma": "seall",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "seall"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-fhiughair",
+    "lemma": "fiughair",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "fiughair"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "adhbharaich",
+    "lemma": "adhbhar",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "adhbhar",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "rannsachadh",
+    "lemma": "rannsaich",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "rannsaich",
+      "adh"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "adh"
+    ]
+  },
+  {
+    "surface_word": "ain-srianta",
+    "lemma": "srianta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "an",
+      "srianta"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-nochd",
+    "lemma": "nochd",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "nochd"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "cunntas",
+    "lemma": "cunnt",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "cunnt",
+      "as"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "draosdachd",
+    "lemma": "draosda",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "draosda",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "taitneas",
+    "lemma": "taitinn",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "taitinn",
+      "as"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "iùlmhorachd",
+    "lemma": "iùl",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "iùl",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "fo-lèine",
+    "lemma": "lèine",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fo",
+      "lèine"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "euslaint",
+    "lemma": "slàinte",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eu",
+      "slàinte"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eu"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "brònach",
+    "lemma": "bròn",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "bròn",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-shnas",
+    "lemma": "snas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "snas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "frith-rathadach",
+    "lemma": "rathad",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "rathad",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "nuadhaich",
+    "lemma": "nuadh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "V",
+    "sub_word": [
+      "nuadh",
+      "ich"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "muiltean",
+    "lemma": "mult",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mult",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "daolag",
+    "lemma": "daol",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "daol",
+      "ag"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ag"
+    ]
+  },
+  {
+    "surface_word": "duilleach",
+    "lemma": "duille",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "duille",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-gheimnidh",
+    "lemma": "geimnidh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "geimnidh"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "co-chothrom",
+    "lemma": "trom",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "co",
+      "trom"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "co"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "feabhasach",
+    "lemma": "feabhas",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "feabhas",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "neach-giùlain",
+    "lemma": "giùlan",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "neach",
+      "giùlan"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "neach"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "balbhan",
+    "lemma": "balbh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "balbh",
+      "an"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "slànaich",
+    "lemma": "slàn",
+    "lemma_pos": "ADJ",
+    "surface_pos": "V",
+    "sub_word": [
+      "slàn",
+      "ich"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "co-mhalairteach",
+    "lemma": "malairt",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "co",
+      "malairt"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "co"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "neo-chiontachd",
+    "lemma": "ciontach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "neo",
+      "ciontach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-fhoighidinn",
+    "lemma": "foighidinn",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "foighidinn"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "an-mhòr",
+    "lemma": "mòr",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "an",
+      "mòr"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-chànanach",
+    "lemma": "cànan",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "cànan"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "teannaich",
+    "lemma": "teann",
+    "lemma_pos": "ADJ",
+    "surface_pos": "V",
+    "sub_word": [
+      "teann",
+      "ich"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "eiridnich",
+    "lemma": "eiridinn",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "eiridinn",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "mì-bhuidheach",
+    "lemma": "buidheach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "buidheach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "faclaireachd",
+    "lemma": "facal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "facal",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "ath-fhillteach",
+    "lemma": "fillte",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ath",
+      "fillte"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "sloinntearachd",
+    "lemma": "sloinntear",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "sloinntear",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "connspaideach",
+    "lemma": "connspaid",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "connspaid",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "fèin-mhurtair",
+    "lemma": "murt",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fèin",
+      "murt"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fèin"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "balachail",
+    "lemma": "balach",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "balach",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "sionnachair",
+    "lemma": "sionnach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "sionnach",
+      "air"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "mì-shuairceas",
+    "lemma": "suairc",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "suairc",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "ainmneach",
+    "lemma": "ainm",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ainm",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "mì-fhortanach",
+    "lemma": "fortan",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "fortan",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ro-ràdh",
+    "lemma": "ràdh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ro",
+      "ràdh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ro"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "leth-bhreith",
+    "lemma": "breith",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "leth",
+      "breith"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "leth"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-leas",
+    "lemma": "leas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "leas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "làthaireachd",
+    "lemma": "làthair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "làthair",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "co-ogha",
+    "lemma": "ogha",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "co",
+      "ogha"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "co"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ban-draoidh",
+    "lemma": "draoidh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ban",
+      "draoidh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ban"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-nàire",
+    "lemma": "nàire",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "nàire"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-thriath",
+    "lemma": "triath",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "eadar",
+      "triath"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "tràthail",
+    "lemma": "tràth",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "tràth",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "latheigin",
+    "lemma": "latha",
+    "lemma_pos": "N",
+    "surface_pos": "ADV",
+    "sub_word": [
+      "latha",
+      "eigin"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "eigin"
+    ]
+  },
+  {
+    "surface_word": "tar-iadhadh",
+    "lemma": "iadhadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "tar",
+      "iadhadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "tar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-bheòthachadh",
+    "lemma": "beothachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "beothachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-theist",
+    "lemma": "teist",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "teist"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "èireannach",
+    "lemma": "èirinn",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "èirinn",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dà-ghlainne",
+    "lemma": "glainne",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "glainne"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-dhòchas",
+    "lemma": "dòchas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "dòchas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "amharc-lann",
+    "lemma": "amharc",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "amharc",
+      "lann"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "lann"
+    ]
+  },
+  {
+    "surface_word": "ath-chur",
+    "lemma": "cur",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "cur"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "alltan",
+    "lemma": "allt",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "allt",
+      "an"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "leanmhainneach",
+    "lemma": "leanmhainn",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "leanmhainn",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ath-ghnàthachadh",
+    "lemma": "gnàthachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "gnàthachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "cothrom",
+    "lemma": "trom",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "co",
+      "trom"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "co"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "neo-làthaireachd",
+    "lemma": "làthair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "neo",
+      "làthair"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "neo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ailtireachd",
+    "lemma": "ailtire",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ailtire",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "ath-innse",
+    "lemma": "innse",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "innse"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fiaclaire",
+    "lemma": "fiacail",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fiacail",
+      "aire"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "aire"
+    ]
+  },
+  {
+    "surface_word": "ain-fhois",
+    "lemma": "fois",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "fois"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "gealachd",
+    "lemma": "geal",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "geal",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "ath-chlaon",
+    "lemma": "claon",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "claon"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "stuamachd",
+    "lemma": "stuama",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "stuama",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "mì-loinnealas",
+    "lemma": "mì-loinneil",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì-loinneil",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "mì-stòlda",
+    "lemma": "stòlda",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "stòlda"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fo-chomataidh",
+    "lemma": "comataidh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fo",
+      "comataidh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fo"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mèirleach",
+    "lemma": "mèirle",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mèirle",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ath-ghabhalach",
+    "lemma": "gabhail",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "gabhail"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ainghean",
+    "lemma": "gean",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "gean"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "aitreabhach",
+    "lemma": "aitreabh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "aitreabh",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dà-shùileach",
+    "lemma": "sùil",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "sùil"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-fhillte",
+    "lemma": "fillte",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "fillte"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chàilear",
+    "lemma": "càilear",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "càilear"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-mheudach",
+    "lemma": "meud",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "meud"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fìnealtachd",
+    "lemma": "fìnealta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "fìnealta",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "fear-caitheamh",
+    "lemma": "caitheamh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "fear",
+      "caitheamh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "fear"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-sgiobalta",
+    "lemma": "sgiobalta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "sgiobalta"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "poblachdail",
+    "lemma": "poball",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "poball",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "follaiseach",
+    "lemma": "follais",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "follais",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "ceannsaiche",
+    "lemma": "ceannsaich",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ceannsaich",
+      "iche"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "iche"
+    ]
+  },
+  {
+    "surface_word": "rìoghalachd",
+    "lemma": "rìgh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "rìgh",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "ain-fhìor",
+    "lemma": "fìor",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "an",
+      "fìor"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "sealgair",
+    "lemma": "sealg",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "sealg",
+      "air"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "farsaingeachd",
+    "lemma": "farsaing",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "farsaing",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "ath-lorgaich",
+    "lemma": "lorgaich",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "ath",
+      "lorgaich"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chiatadh",
+    "lemma": "ciatadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "ciatadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "iar-leasachan",
+    "lemma": "leasachan",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "iar",
+      "leasachan"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "iar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "gairmeach",
+    "lemma": "gairm",
+    "lemma_pos": "V",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "gairm",
+      "ach"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "comannach",
+    "lemma": "comann",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "comann",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "briathrach",
+    "lemma": "briathar",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "briathar",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "dearbh-theodhachd",
+    "lemma": "teth",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "dearbh",
+      "teth"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dearbh"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "caitheadair",
+    "lemma": "caith",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "caith",
+      "adair"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "glasraichear",
+    "lemma": "glasraich",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "glasraich",
+      "ear"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ear"
+    ]
+  },
+  {
+    "surface_word": "frith-thaghadh",
+    "lemma": "taghadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "frith",
+      "taghadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "frith"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-dhèanadach",
+    "lemma": "dèanadach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "dèanadach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dligheachas",
+    "lemma": "dlighe",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "dlighe",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "leth-phiuthar",
+    "lemma": "piuthar",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "leth",
+      "piuthar"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "leth"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "seòmarach",
+    "lemma": "seòmar",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "seòmar",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "suaineach",
+    "lemma": "suain",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "suain",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "àrd-ùrlar",
+    "lemma": "ùrlar",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "àrd",
+      "ùrlar"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "àrd"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ath-shlàinte",
+    "lemma": "slàinte",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "slàinte"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-thuigsinn",
+    "lemma": "tuigsinn",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "tuigsinn"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-theachdail",
+    "lemma": "teachd",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "teachd",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "ath-bhreith",
+    "lemma": "breith",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "breith"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ainfhiach",
+    "lemma": "fiach",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "fiach"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eilthireachd",
+    "lemma": "tìr",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "tìr",
+      "achd"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "ath-thruas",
+    "lemma": "truas",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ath",
+      "truas"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ath"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ban-dalta",
+    "lemma": "dalta",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ban",
+      "dalta"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ban"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "eadar-bhreitheach",
+    "lemma": "breith",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "breith",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "eadarnàiseanta",
+    "lemma": "nàisean",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "eadar",
+      "nàisean"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-bhlasda",
+    "lemma": "blasda",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "blasda"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ìomhaigheach",
+    "lemma": "ìomhaigh",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ìomhaigh",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "eadar-fhigh",
+    "lemma": "figh",
+    "lemma_pos": "V",
+    "surface_pos": "V",
+    "sub_word": [
+      "eadar",
+      "figh"
+    ],
+    "word_class": "V",
+    "prefix": [
+      "eadar"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "breacan",
+    "lemma": "breac",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "breac",
+      "an"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "an"
+    ]
+  },
+  {
+    "surface_word": "aindeas",
+    "lemma": "deas",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "an",
+      "deas"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "slatag",
+    "lemma": "slat",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "slat",
+      "ag"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ag"
+    ]
+  },
+  {
+    "surface_word": "frith-fhilleadh",
+    "lemma": "filleadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "frith",
+      "filleadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "frith"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-ghean",
+    "lemma": "gean",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "gean"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "torrachas",
+    "lemma": "torrach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "torrach",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "dà-dhathach",
+    "lemma": "dath",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "dath"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-thapachd",
+    "lemma": "tapachd",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "tapachd"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-shocair",
+    "lemma": "socair",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "socair"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ana-caitheamh",
+    "lemma": "caitheamh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "caitheamh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-bhuileachadh",
+    "lemma": "buileachadh",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "buileachadh"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "ain-riaghailt",
+    "lemma": "riaghailt",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "an",
+      "riaghailt"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "an"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "fuathaich",
+    "lemma": "fuath",
+    "lemma_pos": "N",
+    "surface_pos": "V",
+    "sub_word": [
+      "fuath",
+      "ich"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ich"
+    ]
+  },
+  {
+    "surface_word": "dà-mhogallach",
+    "lemma": "mogal",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dà",
+      "mogal"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "dà"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "losgair",
+    "lemma": "loisg",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "loisg",
+      "air"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "air"
+    ]
+  },
+  {
+    "surface_word": "mì-dhìrichead",
+    "lemma": "dìrichead",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "mì",
+      "dìrichead"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "dà-sheaghachas",
+    "lemma": "seagh",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "seagh",
+      "as"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "as"
+    ]
+  },
+  {
+    "surface_word": "itheadair",
+    "lemma": "ith",
+    "lemma_pos": "V",
+    "surface_pos": "N",
+    "sub_word": [
+      "ith",
+      "adair"
+    ],
+    "word_class": "V",
+    "prefix": [],
+    "suffix": [
+      "adair"
+    ]
+  },
+  {
+    "surface_word": "ionannachd",
+    "lemma": "ionann",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "ionann",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "teachdail",
+    "lemma": "teachd",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "teachd",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "ridireach",
+    "lemma": "ridire",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "ridire",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  },
+  {
+    "surface_word": "banfhlath",
+    "lemma": "flath",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "ban",
+      "flath"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "ban"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-dhreachmhor",
+    "lemma": "dreach",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "dreach",
+      "mhor"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "mhor"
+    ]
+  },
+  {
+    "surface_word": "frith-bhuidsead",
+    "lemma": "buidsead",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "frith",
+      "buidsead"
+    ],
+    "word_class": "N",
+    "prefix": [
+      "frith"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "mì-chaidreach",
+    "lemma": "caidreach",
+    "lemma_pos": "ADJ",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "mì",
+      "caidreach"
+    ],
+    "word_class": "ADJ",
+    "prefix": [
+      "mì"
+    ],
+    "suffix": []
+  },
+  {
+    "surface_word": "pearsantachd",
+    "lemma": "pearsanta",
+    "lemma_pos": "ADJ",
+    "surface_pos": "N",
+    "sub_word": [
+      "pearsanta",
+      "achd"
+    ],
+    "word_class": "ADJ",
+    "prefix": [],
+    "suffix": [
+      "achd"
+    ]
+  },
+  {
+    "surface_word": "faclairiche",
+    "lemma": "facal",
+    "lemma_pos": "N",
+    "surface_pos": "N",
+    "sub_word": [
+      "facal",
+      "iche"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "iche"
+    ]
+  },
+  {
+    "surface_word": "cumachdail",
+    "lemma": "cumachd",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "cumachd",
+      "ail"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ail"
+    ]
+  },
+  {
+    "surface_word": "mì-aogasach",
+    "lemma": "aogas",
+    "lemma_pos": "N",
+    "surface_pos": "ADJ",
+    "sub_word": [
+      "aogas",
+      "ach"
+    ],
+    "word_class": "N",
+    "prefix": [],
+    "suffix": [
+      "ach"
+    ]
+  }
+]
